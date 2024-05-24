@@ -4,7 +4,7 @@ Original Release 1 - May 2024 | Latest Release 1.2 - Late May 2024
 
 Connecting the actively maintained Seattle and 2 Line Eastside bike maps
 
-By Dara Korra'ti ( @moira@mastodon.murkworks.net / https://solarbird.net./blog ) using material
+By Dara Korra'ti ( @moira@mastodon.murkworks.net / https://solarbird.net/blog ) using material
 from King County GIS, the very outdated and somewhat inaccurate Kirkland Bike Map, satellite
 views via Google Maps, and important contributions from:
  
