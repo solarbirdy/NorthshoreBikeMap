@@ -1,6 +1,6 @@
 The Greater Northshore Bike Route Connector Map
 
-Original Release 1 - May 2024 | Latest Release 1.2 - Late May 2024
+Latest Release 1.2.1 - Early June 2024
 
 Connecting the actively maintained Seattle and 2 Line Eastside bike maps
 
