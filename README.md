@@ -1,8 +1,10 @@
 The Greater Northshore Bike Route Connector Map
 
-Latest Release 1.2.1 - Early June 2024
+Connecting the actively maintained Seattle and 2 Line Eastside bike maps by covering
+the cities of Shoreline, Lake Forest Park, Kenmore, Bothell, and Woodinville, along with
+Juanita, northern Kirkland, north Redmond, and nearby unincorporated King County
 
-Connecting the actively maintained Seattle and 2 Line Eastside bike maps
+Latest Release 1.2.1 - Early June 2024
 
 By Dara Korra'ti ( @moira@mastodon.murkworks.net / https://solarbird.net/blog ) using material
 from King County GIS, the very outdated and somewhat inaccurate Kirkland Bike Map, satellite
