@@ -10,7 +10,7 @@ Changes with 1.2.2:
 
 * Added "Very Bumpy" note near Shoreline Interurban Trailhead
 * Added start of bike lanes and note "To Interurban Trail North" above that
-* Extended fully-separated lane notation one block east after in-person verification
+* Extended fully-separated lane notation one block east after in-person verification in northern Shoreline
 * Corrected types of routes (red-dash vs. green-dot) around Lake Forest Park Town Centre
 * Extended North Creek Trail a little into Snohomish County to inciate it continues
 
