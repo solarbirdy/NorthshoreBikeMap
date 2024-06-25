@@ -4,7 +4,16 @@ Connecting the actively maintained Seattle and 2 Line Eastside bike maps by cove
 the cities of Shoreline, Lake Forest Park, Kenmore, Bothell, and Woodinville, along with
 Juanita, northern Kirkland, north Redmond, and nearby unincorporated King County
 
-Latest Release 1.2.2 - Mid-June 2024
+Latest Release 1.3 - Mid-June 2024
+
+Changes with 1.3:
+
+* Welcome to southern Snohomish County! Roughly 2km of it. This brings complete approaches to the Interurban North and North Creek trails, which are important
+* Construction warnings with dates! At least the ones I know about, which means Juanita Way. They're widening the bike lanes but that means there _aren't_ bike lanes sometimes.
+* New bike lanes on 73rd Ave NE in Kenmore!
+* Bike shop icons in Northshore
+* Route updates in Bothell and Lake Forest Park
+* Misc small stuff
 
 Changes with 1.2.2:
 
