@@ -4,7 +4,13 @@ Connecting the actively maintained Seattle and 2 Line Eastside bike maps by cove
 the cities of Shoreline, Lake Forest Park, Kenmore, Bothell, and Woodinville, along with
 Juanita, northern Kirkland, north Redmond, and nearby unincorporated King County
 
-Latest Release 1.3 - June 21, 2024
+Latest Release 1.3.1 - June 28, 2024
+
+Changes with 1.3.1:
+
+* Typo fixed in street number in Snohomish County; it was repeated because it all linked back to the same object
+* Short extension of bike path in Shoreline reflecting newly completed construction
+* Addition of QR code to map, pointing here, to make finding updates easier
 
 Changes with 1.3:
 
