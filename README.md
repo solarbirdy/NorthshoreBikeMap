@@ -4,7 +4,15 @@ Connecting the actively maintained Seattle and 2 Line Eastside bike maps by cove
 the cities of Shoreline, Lake Forest Park, Kenmore, Bothell, and Woodinville, along with
 Juanita, northern Kirkland, north Redmond, and nearby unincorporated King County
 
-Latest Release 1.3.1 - June 28, 2024
+Latest Release 1.3.2 - July 27, 2024
+
+Changes:
+
+* Extension of bike lanes on NE 170th in Kenmore to Juanita Boulevard (new construction)
+* Addition of new bike shop icon (Eastside Ski & Sport) along East Rail Trail
+* Bike parking icon placement and other minor adjustments
+
+Previous releases:
 
 Changes with 1.3.1:
 
