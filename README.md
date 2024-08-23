@@ -16,6 +16,9 @@ Changes:
 * Addition of new bike shop icon (Eastside Ski & Sport) along East Rail Trail
 * Bike parking icon placement and other minor adjustments
 
+Next map release date: August 30, 2024. Please get feedback for this release in by
+August 25th.
+
 Previous releases:
 
 Changes with 1.3.1:
@@ -41,23 +44,28 @@ Changes with 1.2.2:
 * Corrected types of routes (red-dash vs. green-dot) around Lake Forest Park Town Centre
 * Extended North Creek Trail a little into Snohomish County to inciate it continues
 
-By Dara Korra'ti ( @moira@mastodon.murkworks.net / https://solarbird.net/blog ) using material
+By Dara Korra'ti ( https://mastodon.murkworks.net/@moira / https://solarbird.net/blog ) using material
 from King County GIS, the very outdated and somewhat inaccurate Kirkland Bike Map, satellite
 views via Google Maps, my own biking (quite a lot of that, really), and important contributions from:
- 
+
 Erik H. on Facebook (Bothell)
-@sip@social.ridetrans.it (Shoreline)
-@MHowell@kolektiva.social (Tolt Pipeline Trail)
+
+https://social.ridetrans.it/@sip (Shoreline)
+
+https://kolektiva.social/@MHowell (Tolt Pipeline Trail)
 
 The Megamap is a stich-together of the Greater Northshore Bike Route Connector Map, the City of
-Seattle Bike Map, and the 2 Line Connector Eastside Bike Map. See those projects for their
-individual author/accrediation notes:
+Seattle Bike Map, the 2 Line Connector Eastside Bike Map, and a tiny bit of King County Regional
+Trails Map. See those projects for their individual author/accrediation notes:
 
 City of Seattle Bike Map by City of Seattle Department of Transportation -
 https://www.seattle.gov/transportation/projects-and-programs/programs/bike-program/bike-web-map
 
 2 Line Connector Eastside Bike Map by Move Redmond -
 https://moveredmond.org/station-access-map/
+
+King County Regional Trails Map -
+https://kingcounty.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=f903376698aa4ea3abbfa4f39b47ed0c
 
 This isn't really a project in the software sense, but it is an ongoing project in the greater sense,
 in that the map WILL be getting updates, and there will be a couple of versions of those updates,
