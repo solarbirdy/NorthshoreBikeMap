@@ -8,18 +8,28 @@ You may open issues here, or you may leave them in comments on my blog, here:
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-Latest Release 1.3.2 - July 27, 2024
+Latest Release 1.4 - August 30, 2024 (actually dropped 29 August reasons)
+
+**Note that the north-of-Seattle-proper 1 Line stations are NOT YET OPEN on August 29th. They open
+on August 30th, the official date of this map.**
 
 Changes:
+
+* New data type - Link Light Rail 1 Line stations (all 1 Line stations north of Seattle proper open on August 30th, NOT BEFORE)
+* Added several street name labels, particularly around the new 1 Line rail stations, for improved wayfinding
+* Cleaned up other street name labels where bike infrastructure overlaid the KCGIS names
+* Upgraded block connection between Bothell Way and NE 181st/Remington in Kenmore to "Sharerow" after improved paint went in
+* "Very Bumpy" advisory REMOVED from Shoreline Interurban Trailhead due to repaving, thank you wildjo here on Github
+* Re-added trail exit from Shoreline Interurban Trailhead that got lost somehow in a previous map revision (very small)
+* Added two more short sections of what will be the "Trail By the Rail" in Shoreline, adjusted exact ending point of the largest section already on the map, thank you https://social.ridetrans.it/@bobco85 on Mastodon
+
+Previous releases:
+
+Changes with 1.3.2:
 
 * Extension of bike lanes on NE 170th in Kenmore to Juanita Boulevard (new construction)
 * Addition of new bike shop icon (Eastside Ski & Sport) along East Rail Trail
 * Bike parking icon placement and other minor adjustments
-
-Next map release date: August 30, 2024. Please get feedback for this release in by
-August 25th.
-
-Previous releases:
 
 Changes with 1.3.1:
 
