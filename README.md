@@ -2,20 +2,26 @@ The Greater Northshore Bike Route Connector Map
 
 Connecting the actively maintained Seattle and 2 Line Eastside bike maps by covering
 the cities of Shoreline, Lake Forest Park, Kenmore, Bothell, and Woodinville, along with
-Juanita, northern Kirkland, north Redmond, and nearby unincorporated King County
+Juanita, northern Kirkland, north Redmond, some unincorporated King County, and
+southwest Snohomish County
 
-You may open issues here, or you may leave them in comments on my blog, here:
+And the MEGAMAP
+
+...which combines Greater Northshore, City of Seattle, 2 Line Eastside,
+and a small piece of King County Regional Trails into a poster-sized high-detail MEGAMAP. 
+
+You may submit new route data via issues here on Github, or leave them in comments on my blog:
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-Latest Release 1.4 - August 30, 2024 (actually dropped 29 August reasons)
+**Latest Release 1.4 - August 30, 2024** (dropped early on 29 August for reasons)
 
-**Note that the north-of-Seattle-proper 1 Line stations are NOT YET OPEN on August 29th. They open
-on August 30th, the official date of this map.**
+_Note that the north-of-Seattle-proper 1 Line stations are NOT YET OPEN on August 29th. They open
+on August 30th, the official date of this map._
 
 Changes:
 
-* New data type - Link Light Rail 1 Line stations (all 1 Line stations north of Seattle proper open on August 30th, NOT BEFORE)
+* New data type - Link Light Rail 1 Line stations (all 1 Line stations north of Seattle proper open on **August 30th**, _not before_)
 * Added several street name labels, particularly around the new 1 Line rail stations, for improved wayfinding
 * Cleaned up other street name labels where bike infrastructure overlaid the KCGIS names
 * Upgraded block connection between Bothell Way and NE 181st/Remington in Kenmore to "Sharerow" after improved paint went in
@@ -54,9 +60,27 @@ Changes with 1.2.2:
 * Corrected types of routes (red-dash vs. green-dot) around Lake Forest Park Town Centre
 * Extended North Creek Trail a little into Snohomish County to inciate it continues
 
+Changes with 1.2.1:
+
+* Updating Seattle map to reflect moved/closed bike shops, other small changes
+
+Changes with 1.2:
+
+* Addition of heavily-used but non-official routes, marked in green dotted lines
+* Extnesion of MEGMAP to the south end of Lake Washington, using all of the City of Seattle map and adding a little bit of King County Regional Trails to complete the loop
+
+Changes with 1.1:
+
+* Re-implementation of entire map in Inkscape, as opposed to Version 1, which used macOS Preview
+* Massive cleanup/removal of jpeg artefacts in the KCGIS background maps
+
+Changes with 1.0:
+
+None; initial release.
+
 By Dara Korra'ti ( https://mastodon.murkworks.net/@moira / https://solarbird.net/blog ) using material
 from King County GIS, the very outdated and somewhat inaccurate Kirkland Bike Map, satellite
-views via Google Maps, my own biking (quite a lot of that, really), and important contributions from:
+views via Google Maps, my own biking (quite a lot of that, really), and important initial contributions from:
 
 Erik H. on Facebook (Bothell)
 
