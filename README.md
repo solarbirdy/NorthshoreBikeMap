@@ -24,6 +24,7 @@ Changes:
 * New data type - Link Light Rail 1 Line stations (all 1 Line stations north of Seattle proper open on **August 30th**, _not before_)
 * Added several street name labels, particularly around the new 1 Line rail stations, for improved wayfinding
 * Cleaned up other street name labels where bike infrastructure overlaid the KCGIS names
+* NEW SEATTLE BIKE ROUTE: MLK north from S. Winthrop to two blocks north of I-90. That's right, it's not on their map yet, but it's open and on mine. 
 * Upgraded block connection between Bothell Way and NE 181st/Remington in Kenmore to "Sharerow" after improved paint went in
 * "Very Bumpy" advisory REMOVED from Shoreline Interurban Trailhead due to repaving, thank you wildjo here on Github
 * Re-added trail exit from Shoreline Interurban Trailhead that got lost somehow in a previous map revision (very small)
