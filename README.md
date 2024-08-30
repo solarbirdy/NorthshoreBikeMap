@@ -16,12 +16,9 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 **Latest Release 1.4 - August 30, 2024** (dropped early on 29 August for reasons)
 
-_Note that the north-of-Seattle-proper 1 Line stations are NOT YET OPEN on August 29th. They open
-on August 30th, the official date of this map._
-
 Changes:
 
-* New data type - Link Light Rail 1 Line stations (all 1 Line stations north of Seattle proper open on **August 30th**, _not before_)
+* New data type - Link Light Rail 1 Line stations
 * Added several street name labels, particularly around the new 1 Line rail stations, for improved wayfinding
 * Cleaned up other street name labels where bike infrastructure overlaid the KCGIS names
 * NEW SEATTLE BIKE ROUTE: MLK north from S. Winthrop to two blocks north of I-90. That's right, it's not on their map yet, but it's open and on mine. 
