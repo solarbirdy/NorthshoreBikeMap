@@ -27,6 +27,13 @@ Changes:
 * Re-added trail exit from Shoreline Interurban Trailhead that got lost somehow in a previous map revision (very small)
 * Added two more short sections of what will be the "Trail By the Rail" in Shoreline, adjusted exact ending point of the largest section already on the map, thank you https://social.ridetrans.it/@bobco85 on Mastodon
 
+Coming next release:
+
+* Updated/added bike locker locations
+* Three missing blocks of bike lane and sharow in Lake Forest Park
+* I-405 in blue, which matched the colour used by 2 Line Bike Connector Map, was too easily confused with water and will be changed to an intensity-matched grey
+* Very small cosmetic adjustments
+
 Previous releases:
 
 Changes with 1.3.2:
