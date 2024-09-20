@@ -31,6 +31,7 @@ Coming next release:
 
 * Updated/added bike locker locations
 * Three missing blocks of bike lane and sharow in Lake Forest Park
+* Two new blocks of bike lane near Shoreline South station
 * I-405 in blue, which matched the colour used by 2 Line Bike Connector Map, was too easily confused with water and will be changed to an intensity-matched grey
 * Very small cosmetic adjustments
 
