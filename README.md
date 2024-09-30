@@ -23,6 +23,8 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * I-405 in blue, which matched the colour used by 2 Line Bike Connector Map, was too easily confused with water so was changed to an intensity-matched grey
 * Other small cosmetic adjustments
 
+Previous releases:
+
 Changes with 1.4:
 
 * New data type - Link Light Rail 1 Line stations
@@ -33,8 +35,6 @@ Changes with 1.4:
 * "Very Bumpy" advisory REMOVED from Shoreline Interurban Trailhead due to repaving, thank you wildjo here on Github
 * Re-added trail exit from Shoreline Interurban Trailhead that got lost somehow in a previous map revision (very small)
 * Added two more short sections of what will be the "Trail By the Rail" in Shoreline, adjusted exact ending point of the largest section already on the map, thank you https://social.ridetrans.it/@bobco85 on Mastodon
-
-Previous releases:
 
 Changes with 1.3.2:
 
