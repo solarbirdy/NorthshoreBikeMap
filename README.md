@@ -23,6 +23,11 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * I-405 in blue, which matched the colour used by 2 Line Bike Connector Map, was too easily confused with water so was changed to an intensity-matched grey
 * Other small cosmetic adjustments
 
+Coming in next release:
+
+* Some of the new bike parking icons must be smaller than others, but some were *too* small. These will be adjusted.
+* Other small cosmetic improvements
+
 Previous releases:
 
 Changes with 1.4:
