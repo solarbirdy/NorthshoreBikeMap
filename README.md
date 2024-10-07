@@ -14,9 +14,23 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.4 - August 30, 2024** (dropped early on 29 August for reasons)
+**Latest Release 1.4.1 - September 30, 2024**
 
-Changes:
+* Updated/added bike locker locations
+* Three missing blocks of bike lane and sharow in Lake Forest Park
+* Two new blocks of bike lane near Shoreline South station
+* Most of the shoulder on Woodinville-Duvall Road is not officially bike lane, turns out one section between 156th and 171st is official, so added
+* I-405 in blue, which matched the colour used by 2 Line Bike Connector Map, was too easily confused with water so was changed to an intensity-matched grey
+* Other small cosmetic adjustments
+
+Coming in next release:
+
+* Some of the new bike parking icons must be smaller than others, but some were *too* small. These will be adjusted.
+* Other small cosmetic improvements
+
+Previous releases:
+
+Changes with 1.4:
 
 * New data type - Link Light Rail 1 Line stations
 * Added several street name labels, particularly around the new 1 Line rail stations, for improved wayfinding
@@ -26,17 +40,6 @@ Changes:
 * "Very Bumpy" advisory REMOVED from Shoreline Interurban Trailhead due to repaving, thank you wildjo here on Github
 * Re-added trail exit from Shoreline Interurban Trailhead that got lost somehow in a previous map revision (very small)
 * Added two more short sections of what will be the "Trail By the Rail" in Shoreline, adjusted exact ending point of the largest section already on the map, thank you https://social.ridetrans.it/@bobco85 on Mastodon
-
-Coming next release:
-
-* Updated/added bike locker locations
-* Three missing blocks of bike lane and sharow in Lake Forest Park
-* Two new blocks of bike lane near Shoreline South station
-* Most of the shoulder on Woodinville-Duvall Road is not officially bike lane, turns out one section between 156th and 171st is official, so will be added
-* I-405 in blue, which matched the colour used by 2 Line Bike Connector Map, was too easily confused with water and will be changed to an intensity-matched grey
-* Very small cosmetic adjustments
-
-Previous releases:
 
 Changes with 1.3.2:
 
