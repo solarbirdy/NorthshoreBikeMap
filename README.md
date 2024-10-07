@@ -14,7 +14,15 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.4.1 - September 30, 2024**
+**Latest Release 1.4.2 - October 7, 2024**
+
+* Sammamish River closed one month for construction in Bothell. **There is a detour and it is reasonable**, but I have flagged it on the map as it is a major route.
+* Some of the new bike parking icons must be smaller than others, but some were *too* small. These have been enlarged.
+* A few small cosmetic improvements
+
+Previous releases:
+
+Changes with 1.4.1:
 
 * Updated/added bike locker locations
 * Three missing blocks of bike lane and sharow in Lake Forest Park
@@ -22,13 +30,6 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Most of the shoulder on Woodinville-Duvall Road is not officially bike lane, turns out one section between 156th and 171st is official, so added
 * I-405 in blue, which matched the colour used by 2 Line Bike Connector Map, was too easily confused with water so was changed to an intensity-matched grey
 * Other small cosmetic adjustments
-
-Coming in next release:
-
-* Some of the new bike parking icons must be smaller than others, but some were *too* small. These will be adjusted.
-* Other small cosmetic improvements
-
-Previous releases:
 
 Changes with 1.4:
 
