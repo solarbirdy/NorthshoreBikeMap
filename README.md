@@ -20,6 +20,11 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Some of the new bike parking icons must be smaller than others, but some were *too* small. These have been enlarged.
 * A few small cosmetic improvements
 
+Coming in next release:
+
+* Updating Juanita Drive construction area with a temporary downgrade to sharrow, recommending detour
+* Slope markers on the closest, most obvious detour route (NE 123rd, NE 132nd)
+
 Previous releases:
 
 Changes with 1.4.1:
