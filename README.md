@@ -24,6 +24,7 @@ Coming in next release:
 
 * Updating Juanita Drive construction area with a temporary downgrade to sharrow, recommending detour
 * Slope markers on the closest, most obvious detour route (NE 123rd, NE 132nd)
+* NEW BIKE UNDERPASS from Montlake to Bill Dawson trail is open, will edit Seattle's map to show. 
 
 Previous releases:
 
