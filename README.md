@@ -29,13 +29,13 @@ Coming in next release (currently planned for early November, after the election
 * Hopefully the end of Burke-Gilman repaving in Bothell
 * Hopefully a long-term remapping of Montlake Boulevard at SR-520 and the new bike/pedestrian bridge
 
+Previous releases:
+
 Changes with 1.4.2:
 
 * Sammamish River closed one month for construction in Bothell. **There is a detour and it is reasonable**, but I have flagged it on the map as it is a major route.
 * Some of the new bike parking icons must be smaller than others, but some were *too* small. These have been enlarged.
 * A few small cosmetic improvements
-
-Previous releases:
 
 Changes with 1.4.1:
 
