@@ -7,26 +7,33 @@ southwest Snohomish County
 
 And the MEGAMAP
 
-...which combines Greater Northshore, City of Seattle, 2 Line Eastside,
-and a small piece of King County Regional Trails into a poster-sized high-detail MEGAMAP. 
+Combining Greater Northshore, City of Seattle, 2 Line Eastside, and a small piece of
+King County Regional Trails into a poster-sized high-detail MEGAMAP. 
 
 You may submit new route data via issues here on Github, or leave them in comments on my blog:
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.4.2 - October 7, 2024**
+**Latest Release 1.4.3 - October 19, 2024**
+
+* Updating Juanita Drive construction area with a temporary downgrade to sharrow, recommending detour
+* Slope markers on the closest, most obvious detour route (NE 123rd, NE 132nd)
+* NEW BIKE UNDERPASS from Montlake to Bill Dawson trail is open, edited Seattle's map to show
+* Additional sharrows in Kirkland near Mark Twain Park
+* New 6th Ave NW neighbourhood greenway in Fremont, yes I'm updating Seattle's map for them again
+* Updating/clarifications around Montlake Boulevard at SR-520; it's in flux but this is close
+* Yes half these changes are on Seattle's map and mostly that's why this version got dropped
+
+Coming in next release (currently planned for early November, after the election):
+
+* Hopefully the end of Burke-Gilman repaving in Bothell
+* Hopefully a long-term remapping of Montlake Boulevard at SR-520 and the new bike/pedestrian bridge
+
+Changes with 1.4.2:
 
 * Sammamish River closed one month for construction in Bothell. **There is a detour and it is reasonable**, but I have flagged it on the map as it is a major route.
 * Some of the new bike parking icons must be smaller than others, but some were *too* small. These have been enlarged.
 * A few small cosmetic improvements
-
-Coming in next release:
-
-* Updating Juanita Drive construction area with a temporary downgrade to sharrow, recommending detour
-* Slope markers on the closest, most obvious detour route (NE 123rd, NE 132nd)
-* NEW BIKE UNDERPASS from Montlake to Bill Dawson trail is open, will edit Seattle's map to show
-* Additional sharrows in Kirkland near Mark Twain Park
-* New 6th Ave NW neighbourhood greenway in Fremont, yes I'm updating Seattle's map for them again
 
 Previous releases:
 
