@@ -26,7 +26,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release (currently planned for early November, after the election):
 
-* Yet another correction to Seattle's map showing NW 125th between Interurban and Aurora as sharrows, not bike lanes
+* Yet another correction to Seattle's map showing NW 125th between Interurban and Aurora as sharrows, not bike lanes (thank you, [@pruwyben@social.ridetrans.it](https://social.ridetrans.it/@pruwyben))
 * Hopefully the end of Burke-Gilman repaving in Bothell
 * Hopefully a long-term remapping of Montlake Boulevard at SR-520 and the new bike/pedestrian bridge
 
