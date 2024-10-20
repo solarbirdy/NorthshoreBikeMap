@@ -1,4 +1,4 @@
-CONTRIBUTORS as of Version 1.4.1, in order by date of initial contribution:
+CONTRIBUTORS as of Version 1.4.4, in order by date of initial contribution:
 
 * Erik H. on Facebook (Bothell bike lanes)
 * [@sip@social.ridetrans.it](https://social.ridetrans.it/@sip) on Mastodon (Shoreline bike lanes)
@@ -6,6 +6,7 @@ CONTRIBUTORS as of Version 1.4.1, in order by date of initial contribution:
 * [@attoparsec@clacks.link](https://clacks.link/@attoparsec) on Mastodon (Shoreline, Trail by the Rail)
 * [@MHowell@kolektiva.social](https://kolektiva.social/@MHowell) on Mastodon (Tolt Pipeline Trail)
 * [wildjo](https://github.com/wildjo) on Github (Shoreline Interurban Trailhead repairs)
+* [@pruwyben@social.ridetrans.it](https://social.ridetrans.it/@pruwyben) on Mastodon (North Seattle, correction to NW 125th on Seattle's map)
 
 I am actively looking for updates to the Greater Northshore
 portion of the map, particularly those involving new bike
