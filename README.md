@@ -22,7 +22,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release:
 
-* Hopefully the full long-term remapping of Montlake Boulevard at SR-520 with the new bike/pedestrian bridge
+* Hopefully the full long-term remapping of Montlake Boulevard at SR-520 with the new bike/pedestrian bridge (current estimated opening date: December 13th)
 * New Safe/Neighbourhood Greenway streets in northern Lake City (Seattle map)
 
 Previous releases:
