@@ -20,10 +20,10 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Construction warning flag removed with the end of Burke-Gilman repaving in Bothell
 * MEGAMAP only: substantial update/rework of the Montlake Boulevard/SR-520 intersection. Not all planned bike facilities are yet open, but some are.
 
-Coming in next release:
+Coming in next release (scheduled for 13 December 2024):
 
-* Hopefully the full long-term remapping of Montlake Boulevard at SR-520 with the new bike/pedestrian bridge (current estimated opening date: December 13th)
-* New Safe/Neighbourhood Greenway streets in northern Lake City (Seattle map)
+* The full long-term remapping of Montlake Boulevard at SR-520 with the new bike/pedestrian bridge (opens 13 December; MEGAMAP only)
+* New Safe/Neighbourhood Greenway streets in northern Lake City (already open; Greater Northshore and MEGAMAP)
 
 Previous releases:
 
