@@ -24,6 +24,7 @@ Coming in next release (scheduled for 13 December 2024):
 
 * The full long-term remapping of Montlake Boulevard at SR-520 with the new bike/pedestrian bridge (opens 13 December; MEGAMAP only)
 * New Safe/Neighbourhood Greenway streets in northern Lake City (already open; Greater Northshore and MEGAMAP)
+* Improved bike lanes/partial off-street lanes in Redmond on 152nd Ave NE north of NE 24th St. (already open; MEGAMAP only)
 
 Previous releases:
 
