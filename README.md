@@ -14,19 +14,23 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.4.4 - November 4, 2024**
+**Latest Release 1.4.5 - December 13, 2024**
+
+* The full long-term remapping of Montlake Boulevard at SR-520 with the new bike/pedestrian bridge (opening ceremony **14 December**, was supposed to be finished on the 13th but is not but I'm going with it anyway; MEGAMAP only)
+* New Safe/Neighbourhood Greenway streets in northern Lake City (already open; Greater Northshore and MEGAMAP)
+* Improved bike lanes/partial off-street lanes in Redmond on 152nd Ave NE north of NE 24th St. (already open; MEGAMAP only)
+
+Coming in next release:
+
+* (Nothing yet, this will be updated as needed)
+
+Previous releases:
+
+Changes with 1.4.4 (4 November 2024):
 
 * Yet another correction to Seattle's map showing NW 125th between Interurban and Aurora as sharrows, not bike lanes (thank you, [@pruwyben@social.ridetrans.it](https://social.ridetrans.it/@pruwyben))
 * Construction warning flag removed with the end of Burke-Gilman repaving in Bothell
 * MEGAMAP only: substantial update/rework of the Montlake Boulevard/SR-520 intersection. Not all planned bike facilities are yet open, but some are.
-
-Coming in next release (scheduled for 13 December 2024):
-
-* The full long-term remapping of Montlake Boulevard at SR-520 with the new bike/pedestrian bridge (opens 13 December; MEGAMAP only)
-* New Safe/Neighbourhood Greenway streets in northern Lake City (already open; Greater Northshore and MEGAMAP)
-* Improved bike lanes/partial off-street lanes in Redmond on 152nd Ave NE north of NE 24th St. (already open; MEGAMAP only)
-
-Previous releases:
 
 Changes with 1.4.3:
 
