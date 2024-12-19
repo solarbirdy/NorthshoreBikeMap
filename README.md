@@ -22,7 +22,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release:
 
-* (Nothing yet, this will be updated as needed)
+* Removal of a bike store icon in Roosevelt and 84th, closing at end of year
 
 Previous releases:
 
