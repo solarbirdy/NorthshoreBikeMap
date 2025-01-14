@@ -23,6 +23,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 Coming in next release:
 
 * Removal of a bike store icon in Roosevelt and 84th, closing at end of year
+* Addition of fully-separated bike lane on 11th Ave NE from 47th to Ravenna, and on 12th Ave NE from Ravenna to NE 69th (nice)
 
 Previous releases:
 
