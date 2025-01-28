@@ -24,6 +24,8 @@ Coming in next release:
 
 * Removal of a bike store icon in Roosevelt and 84th, closing at end of year
 * Addition of fully-separated bike lane on 11th Ave NE from 47th to Ravenna, and on 12th Ave NE from Ravenna to NE 69th (nice)
+* Waterfront Trail: Yesler to Union now open
+* Eastlake: Fairview to John now have separated bike lanes, with more to come
 
 Previous releases:
 
