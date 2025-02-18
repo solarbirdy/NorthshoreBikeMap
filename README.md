@@ -22,6 +22,12 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Waterfront Trail: Yesler to Union now open
 * Eastlake from Fairview to John now has separated bike lanes, with more to come
 
+Coming in next release:
+
+* Bike lane infrastructure in and around 100th Ave W. in Edmonds (Greater Northshore, MEGAMAP) 
+* First buildout of bike lanes in Newcastle, by request (MEGAMAP only)
+* Upgrade of bike lanes along 15th Avenue S. in Seattle, resulting in a change of marking type (MEGAMAP/Seattle)
+
 Previous releases:
 
 Changes with 1.4.5 (13 December 2024):
