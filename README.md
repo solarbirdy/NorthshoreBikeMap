@@ -20,6 +20,12 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Added bike lane infrastructure in and around 100th Ave W. in Edmonds (Greater Northshore, MEGAMAP) 
 * Upgrade of bike lanes along 15th Avenue S. in Seattle, resulting in a change of marking type (MEGAMAP)
 
+Coming in next release:
+
+* Additional labels in Lake Forest Park aiding navigation to Mountlake Terrace Light Rail Station
+* Final section opening of the Waterfront Bike Trail in Seattle
+* Clarified warning signs on incomplete bike lanes on 15th Ave S. in Seattle.
+
 Previous releases:
 
 Changes with 1.4.6 (28 January 2025):
