@@ -14,21 +14,28 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.4.6 - January 28, 2025**
+**Latest Release 1.5 - February 21, 2025**
+
+* By request, we now cover Newcastle and northernmost Renton, providing the first maps coverage of that area we know about - certainly the most detailed. One benefit of doing so is that we can now provide additional clarity to the southern Lake Washington Loop. (MEGAMAP)
+* Added bike lane infrastructure in and around 100th Ave W. in Edmonds (Greater Northshore, MEGAMAP) 
+* Upgrade of bike lanes along 15th Avenue S. in Seattle, resulting in a change of marking type (MEGAMAP)
+
+Coming in next release:
+
+* Additional labels in Lake Forest Park aiding navigation to Mountlake Terrace Light Rail Station
+* Final section opening of the Waterfront Bike Trail in Seattle
+* Clarified warning signs on incomplete bike lanes on 15th Ave S. in Seattle
+* Honey Dew Creek Trail (paved section) and connection routes in Newcastle/Renton
+
+Previous releases:
+
+Changes with 1.4.6 (28 January 2025):
 
 * Removal of a bike store icon in Roosevelt and 84th
 * Addition of a "Difficult" label on Power Line Trail
 * Addition of fully-separated bike lane on 11th Ave NE from 47th to Ravenna, and on 12th Ave NE from Ravenna to NE 69th
 * Waterfront Trail: Yesler to Union now open
 * Eastlake from Fairview to John now has separated bike lanes, with more to come
-
-Coming in next release:
-
-* Bike lane infrastructure in and around 100th Ave W. in Edmonds (Greater Northshore, MEGAMAP) 
-* First buildout of bike lanes in Newcastle, by request (MEGAMAP only)
-* Upgrade of bike lanes along 15th Avenue S. in Seattle, resulting in a change of marking type (MEGAMAP/Seattle)
-
-Previous releases:
 
 Changes with 1.4.5 (13 December 2024):
 
