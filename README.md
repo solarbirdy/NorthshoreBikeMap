@@ -24,7 +24,8 @@ Coming in next release:
 
 * Additional labels in Lake Forest Park aiding navigation to Mountlake Terrace Light Rail Station
 * Final section opening of the Waterfront Bike Trail in Seattle
-* Clarified warning signs on incomplete bike lanes on 15th Ave S. in Seattle.
+* Clarified warning signs on incomplete bike lanes on 15th Ave S. in Seattle
+* Honey Dew Creek Trail (paved section) and connection routes in Newcastle/Renton
 
 Previous releases:
 
