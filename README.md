@@ -23,7 +23,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release:
 
-* Large expansion expansion north to Lynnwood City Centre rail station across all of SW Snohomish County
+* Large expansion north to Lynnwood City Centre rail station across all of SW Snohomish County
 * Extension of Interurban Trail in Edmonds to 78th Place West.
 * Improved street labelling, mostly in SW Snohomish County.
 
