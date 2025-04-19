@@ -23,7 +23,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Previous releases:
 
-Changes with 1.6.1 (March 8, 2025):
+Changes with 1.5.1 (March 8, 2025):
 
 * Additional labels in Lake Forest Park aiding navigation to Mountlake Terrace Light Rail Station
 * Final section opening of the Waterfront Bike Trail in Seattle
