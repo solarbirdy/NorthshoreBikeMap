@@ -3,7 +3,7 @@ The Greater Northshore Bike Route Connector Map [(direct link)](https://github.c
 Connecting the actively maintained Seattle and 2 Line Eastside bike maps by covering
 the cities of Shoreline, Lake Forest Park, Kenmore, Bothell, and Woodinville, along with
 Juanita, northern Kirkland, north Redmond, some unincorporated King County, and
-southwest Snohomish County
+southwest Snohomish County communities of Edmonds, Lynnwood, Mountlake Terrace, Briar, and Maltby. 
 
 And the MEGAMAP [(direct link)](https://github.com/solarbirdy/NorthshoreBikeMap/blob/main/MEGAMAP%20Combined%20Bike%20Map%20(Greater%20Northshore%2C%20Seattle%2C%202%20Line%20Eastside%2C%20NW%20King%20County).jpg)
 
