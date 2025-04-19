@@ -14,20 +14,21 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.5.1 - March 8, 2025**
+**Latest Release 1.6 - April 18, 2025**
+
+* Large expansion north to Lynnwood City Centre rail station across all of SW Snohomish County
+* Extension of Interurban Trail in Edmonds to 78th Place West.
+* Improved street labelling, mostly in SW Snohomish County.
+* Route indicators at map edges describing past-map continuations to destinations such as UW and City of Snohomish
+
+Previous releases:
+
+Changes with 1.6.1 (March 8, 2025):
 
 * Additional labels in Lake Forest Park aiding navigation to Mountlake Terrace Light Rail Station
 * Final section opening of the Waterfront Bike Trail in Seattle
 * Clarified warning signs on mostly- but not quite complete bike lanes on 15th Ave S. in Seattle
 * Honey Dew Creek Trail (paved section) and connection routes added in Newcastle/Renton
-
-Coming in next release:
-
-* Large expansion north to Lynnwood City Centre rail station across all of SW Snohomish County
-* Extension of Interurban Trail in Edmonds to 78th Place West.
-* Improved street labelling, mostly in SW Snohomish County.
-
-Previous releases:
 
 Changes with 1.5 (February 21, 2025):
 
