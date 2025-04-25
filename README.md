@@ -21,6 +21,12 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Improved street labelling, mostly in SW Snohomish County.
 * Route indicators at map edges describing past-map continuations to destinations such as UW and City of Snohomish
 
+Coming in next release:
+
+* 2 Line Bike Connector Map release 2 / May 2025 will, I am told, be dropping soon. It will be added to the next release issued after it appears.
+* Bike lane markers added to Forbes Creek Drive in Kirkland
+* Further cleanup of trail situation in Crestwoods Park, Kirkland
+
 Previous releases:
 
 Changes with 1.5.1 (March 8, 2025):
