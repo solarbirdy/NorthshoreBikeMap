@@ -3,7 +3,7 @@ The Greater Northshore Bike Route Connector Map [(direct link)](https://github.c
 Connecting the actively maintained Seattle and 2 Line Eastside bike maps by covering
 the cities of Shoreline, Lake Forest Park, Kenmore, Bothell, and Woodinville, along with
 Juanita, northern Kirkland, north Redmond, some unincorporated King County, and
-southwest Snohomish County
+southwest Snohomish County communities of Edmonds, Lynnwood, Mountlake Terrace, Briar, and Maltby. 
 
 And the MEGAMAP [(direct link)](https://github.com/solarbirdy/NorthshoreBikeMap/blob/main/MEGAMAP%20Combined%20Bike%20Map%20(Greater%20Northshore%2C%20Seattle%2C%202%20Line%20Eastside%2C%20NW%20King%20County).jpg)
 
@@ -14,20 +14,27 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.5.1 - March 8, 2025**
+**Latest Release 1.6 - April 18, 2025**
+
+* Large expansion north to Lynnwood City Centre rail station across all of SW Snohomish County
+* Extension of Interurban Trail in Edmonds to 78th Place West.
+* Improved street labelling, mostly in SW Snohomish County.
+* Route indicators at map edges describing past-map continuations to destinations such as UW and City of Snohomish
+
+Coming in next release:
+
+* 2 Line Bike Connector Map release 2 / May 2025 will, I am told, be dropping soon. It will be added to the next release issued after it appears.
+* Bike lane markers added to Forbes Creek Drive in Kirkland
+* Further cleanup of trail situation in Crestwoods Park, Kirkland
+
+Previous releases:
+
+Changes with 1.5.1 (March 8, 2025):
 
 * Additional labels in Lake Forest Park aiding navigation to Mountlake Terrace Light Rail Station
 * Final section opening of the Waterfront Bike Trail in Seattle
 * Clarified warning signs on mostly- but not quite complete bike lanes on 15th Ave S. in Seattle
 * Honey Dew Creek Trail (paved section) and connection routes added in Newcastle/Renton
-
-Coming in next release:
-
-* Large expansion north to Lynnwood City Centre rail station across all of SW Snohomish County
-* Extension of Interurban Trail in Edmonds to 78th Place West.
-* Improved street labelling, mostly in SW Snohomish County.
-
-Previous releases:
 
 Changes with 1.5 (February 21, 2025):
 
