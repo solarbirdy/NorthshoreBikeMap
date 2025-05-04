@@ -14,20 +14,26 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.6 - April 18, 2025**
+**Latest Release 1.6.1 - May 3, 2025**
+
+* Correction of errors on 84th West in Snohomish County, where sharrows had been incorrectly shown as full bike lanes across a couple of blocks where only one side has full bike lanes
+* Added bike lane markers for Forbes Creek Drive in Kirkland
+* Further cleanup of the trail situation in and around Crestwoods Park, Kirkland
+* Added Old Market Street Trail in Juanita
+* Added continuation notes showing how far infrastructure continues on the MEGAMAP's northern border
+
+Coming in next release:
+
+* 2 Line Bike Connector Map release 2 / May 2025 will, I am told, be dropping soon. It will be added to the next release issued after it appears.
+
+Previous releases:
+
+Changes with 1.6 (April 18, 2025):
 
 * Large expansion north to Lynnwood City Centre rail station across all of SW Snohomish County
 * Extension of Interurban Trail in Edmonds to 78th Place West.
 * Improved street labelling, mostly in SW Snohomish County.
 * Route indicators at map edges describing past-map continuations to destinations such as UW and City of Snohomish
-
-Coming in next release:
-
-* 2 Line Bike Connector Map release 2 / May 2025 will, I am told, be dropping soon. It will be added to the next release issued after it appears.
-* Bike lane markers added to Forbes Creek Drive in Kirkland
-* Further cleanup of trail situation in Crestwoods Park, Kirkland
-
-Previous releases:
 
 Changes with 1.5.1 (March 8, 2025):
 
