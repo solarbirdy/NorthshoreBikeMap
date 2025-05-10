@@ -14,19 +14,25 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.6.1 - May 3, 2025**
+**Latest Release 1.7 - May 10, 2025**
+
+* **MAJOR EASTSIDE UPGRADE** with the freshly dropped 2 Line Eastide Bike Connector Map. There are several updates, but the biggest are the two light rail stations opening today, 10 May 2025. If you're reading this on the 10th, there are opening day celebrations and you can go join them.
+* Notes about infrastructure continuance off-map now appear on both Greater Northshore and MEGAMAP, with the indicators relocating themselves as appropriate.
+* Same for the two major directional notices to Alderwood Mall and City of Snohomish, both of which are too far north for this map.
+* Addition with reservations of a short section of what are technically bike lanes in Woodinville. I don't like them and marked them as undermarked, because they are, in person.
+* Construction on NE 132nd has extended bike lanes! And made the crossing of I-405 more confusing and probably slower! But also probably safer. It's a tradeoff, and it's on the maps now.
+* NE 116th in Redmond has extended bike lanes now, but without the complexity adds of 132nd.
+* LOTS of behind-the-scenes work adapting to the new 2 Line update. The biggest unresolved question: should I change my key to match theirs? They've changed fully-separate bike path to a very dark green instead of red. I have NOT done that on 1.7. Opinions?
+
+Previous releases
+
+Changes with 1.6.1 (May 3, 2025):
 
 * Correction of errors on 84th West in Snohomish County, where sharrows had been incorrectly shown as full bike lanes across a couple of blocks where only one side has full bike lanes
 * Added bike lane markers for Forbes Creek Drive in Kirkland
 * Further cleanup of the trail situation in and around Crestwoods Park, Kirkland
 * Added Old Market Street Trail in Juanita
 * Added continuation notes showing how far infrastructure continues on the MEGAMAP's northern border
-
-Coming in next release:
-
-* 2 Line Bike Connector Map release 2 / May 2025 will, I am told, be dropping soon. It will be added to the next release issued after it appears.
-
-Previous releases:
 
 Changes with 1.6 (April 18, 2025):
 
