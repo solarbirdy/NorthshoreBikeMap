@@ -24,6 +24,12 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * NE 116th in Redmond has extended bike lanes now, but without the complexity adds of 132nd.
 * LOTS of behind-the-scenes work adapting to the new 2 Line update. The biggest unresolved question: should I change my key to match theirs? They've changed fully-separate bike path to a very dark green instead of red. I have NOT done that on 1.7. Opinions?
 
+Coming in next release:
+
+* Refinement of intersections with streets on Interurban Trail North in Snohomish County
+* Small additions (short bike lane, shorter trails) around Totem Lake
+* Small addition (short mixed-use trail, pedestrian first but bikes permitted) in northern Woodinville at 130th/132nd
+
 Previous releases
 
 Changes with 1.6.1 (May 3, 2025):
