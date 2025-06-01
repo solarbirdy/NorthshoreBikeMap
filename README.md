@@ -14,25 +14,26 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.7 - May 10, 2025**
-
-* **MAJOR EASTSIDE UPGRADE** with the freshly dropped 2 Line Eastide Bike Connector Map. There are several updates, but the biggest are the two light rail stations opening today, 10 May 2025. If you're reading this on the 10th, there are opening day celebrations and you can go join them.
-* Notes about infrastructure continuance off-map now appear on both Greater Northshore and MEGAMAP, with the indicators relocating themselves as appropriate.
-* Same for the two major directional notices to Alderwood Mall and City of Snohomish, both of which are too far north for this map.
-* Addition with reservations of a short section of what are technically bike lanes in Woodinville. I don't like them and marked them as undermarked, because they are, in person.
-* Construction on NE 132nd has extended bike lanes! And made the crossing of I-405 more confusing and probably slower! But also probably safer. It's a tradeoff, and it's on the maps now.
-* NE 116th in Redmond has extended bike lanes now, but without the complexity adds of 132nd.
-* LOTS of behind-the-scenes work adapting to the new 2 Line update. The biggest unresolved question: should I change my key to match theirs? They've changed fully-separate bike path to a very dark green instead of red. I have NOT done that on 1.7. Opinions?
-
-Coming in next release:
+**Latest Release 1.7.1 - June 1, 2025**
 
 * Extension of bike lanes in Kenmore on 80th Ave NE up to NE 185th/186th street
 * Refinement of intersections with streets on Interurban Trail North in Snohomish County
 * Small additions (short bike lane, shorter trails) around Totem Lake
 * Small addition (short mixed-use trail, pedestrian first but bikes permitted) in northern Woodinville at 130th/132nd
 * Addition of north bike exit from Shoreline North 1 Line station - possibly part of the Trail Under the Rail system? It's not signed as such but it's in the right place for it.
+* Text cleanup in Redmond, replacing/moving text which gets cut off on the Greater Northshore map so that it is no longer cut off.
 
 Previous releases
+
+Changes with 1.7 (May 10, 2025):
+
+* **MAJOR EASTSIDE UPGRADE** with the freshly dropped 2 Line Eastide Bike Connector Map. There are several updates, but the biggest are the two light rail stations opening on 10 May 2025.
+* Notes about infrastructure continuance off-map now appear on both Greater Northshore and MEGAMAP, with the indicators relocating themselves as appropriate.
+* Same for the two major directional notices to Alderwood Mall and City of Snohomish, both of which are too far north for this map.
+* Addition with reservations of a short section of what are technically bike lanes in Woodinville. I don't like them and marked them as undermarked, because they are, in person.
+* Construction on NE 132nd has extended bike lanes! And made the crossing of I-405 more confusing and probably slower! But also probably safer. It's a tradeoff, and it's on the maps now.
+* NE 116th in Redmond has extended bike lanes now, but without the complexity adds of 132nd.
+* LOTS of behind-the-scenes work adapting to the new 2 Line update. The biggest unresolved question: should I change my key to match theirs? They've changed fully-separate bike path to a very dark green instead of red. I have NOT done that on 1.7. Opinions?
 
 Changes with 1.6.1 (May 3, 2025):
 
