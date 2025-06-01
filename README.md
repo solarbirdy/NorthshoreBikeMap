@@ -26,9 +26,11 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release:
 
+* Extension of bike lanes in Kenmore on 80th Ave NE up to NE 185th/186th street
 * Refinement of intersections with streets on Interurban Trail North in Snohomish County
 * Small additions (short bike lane, shorter trails) around Totem Lake
 * Small addition (short mixed-use trail, pedestrian first but bikes permitted) in northern Woodinville at 130th/132nd
+* Addition of north bike exit from Shoreline North 1 Line station - possibly part of the Trail Under the Rail system? It's not signed as such but it's in the right place for it.
 
 Previous releases
 
