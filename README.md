@@ -23,6 +23,10 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Addition of north bike exit from Shoreline North 1 Line station - possibly part of the Trail Under the Rail system? It's not signed as such but it's in the right place for it.
 * Text cleanup in Redmond, replacing/moving text which gets cut off on the Greater Northshore map so that it is no longer cut off.
 
+Coming in next release:
+
+* Juanita Drive bike lanes in Juanita are finally open (again)!
+
 Previous releases
 
 Changes with 1.7 (May 10, 2025):
