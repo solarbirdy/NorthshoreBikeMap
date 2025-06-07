@@ -26,6 +26,19 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 Coming in next release:
 
 * Juanita Drive bike lanes in Juanita are finally open (again)!
+* SEATTLE have dropped a new bike map, but have chosen to show several incomplete and inaccessible projects as completed. We respectfully disagree with this decision. Accordingly, we are staying on Seattle 2023, and will continue to update it. Those updates so far include:
+* 6th Ave NW steepness indicator in Fremont corrected
+* 6th Ave NW Neighbourhood Greenway corrected (was marked as bike lane)
+* Alki Drive/Beach Drive SW Healthy Street in West Seattle added
+* Maple Leaf Reservoir Neighbourhood Greenway added
+* 12th Ave NE west-side bike lane in U. District added
+* Pike Street bike-lane hillclimb over I-5 updated
+* 21st Ave Greenway/Health Street from Columbia to Yesler added
+* Greenway/Healthy Street connection between 30th Ave S east of MLK to Mountains-to-Sound Trail added
+* 39th Ave South Greenway/Healthy Street from south of Othello to Kenyon added
+* One block of Neighbourhood Greenway on 27th Ave NE north of Lake City REMOVED
+
+Four other Seattle projects may be finished but need to be validated in person as they were not complete at the time of latest (early 2025) satellite photographs. Four other additional projects in Seattle are incorrectly shown as completed on Seattle's map. As they are completed, we will add them. Once all are completed, we will consider transitioning to Seattle 2025 as the next Seattle base map.
 
 Previous releases
 
