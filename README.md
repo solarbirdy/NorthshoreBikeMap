@@ -37,8 +37,15 @@ Coming in next release:
 * Greenway/Healthy Street connection between 30th Ave S east of MLK to Mountains-to-Sound Trail added
 * 39th Ave South Greenway/Healthy Street from south of Othello to Kenyon added
 * One block of Neighbourhood Greenway on 27th Ave NE north of Lake City REMOVED
+* 1st Ave NW neighbourhood greenway north of Greenwood to Broadview added
+* S. Walden/Della neighbourhood greenway added
+* Ashworth Ave mix of neighbourhood greenway and ped/bike shared path added
+* N. 120th St. neighbourhood greenway from Ashworth Ave to Corliss Ave added
+* N. 130th St. bike lanes north of Haller Lake added
+* W. Marginal Way SW bike lanes extended north to 17th Ave SW
+* Several small corrections/adjustments, carrying forward Seattle map corrections/adjustments
 
-Four other Seattle projects may be finished but need to be validated in person as they were not complete at the time of latest (early 2025) satellite photographs. Four other additional projects in Seattle are incorrectly shown as completed on Seattle's map. As they are completed, we will add them. Once all are completed, we will consider transitioning to Seattle 2025 as the next Seattle base map.
+Six other additional projects in Seattle are incorrectly shown as completed on Seattle's map. As they are completed, we will add them. Once all are completed - current estimate is "by the end of 2025" - we will consider transitioning to Seattle 2025 as the next Seattle base map.
 
 Previous releases
 
