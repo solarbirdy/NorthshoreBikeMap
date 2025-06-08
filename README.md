@@ -17,7 +17,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 **Latest Release 1.8.0 - June 8, 2025**
 
 * Juanita Drive bike lanes are finally open (again) in Juanita! There's still a little construction on sidewalks, but functionally, they're done
-* **MAJOR SEATTLE UPGRADE** - continue reading for details
+* **MAJOR SEATTLE UPDATE** - continue reading for details
 
 Seattle have dropped a new bike map for 2025 and 2026, but have chosen to show several incomplete and/or entirely unstarted projects as completed. We respectfully disagree with this decision, as it will direct map users to infrastructure which is not actually present.
 
@@ -37,7 +37,7 @@ Updates to our maps for this release which have been imported from Seattle 2025 
 * 6th Ave NW Neighbourhood Greenway corrected (was marked as bike lane)
 * Alki Drive/Beach Drive SW Healthy Street in West Seattle added
 * Maple Leaf Reservoir Neighbourhood Greenway added
-* Pike Street bike-lane hillclimb over I-5 updated
+* Pike Street bike lane hillclimb over I-5 updated to reflect upgraded status
 * 21st Ave Greenway/Health Street from Columbia to Yesler added
 * Greenway/Healthy Street connection between 30th Ave S east of MLK to Mountains-to-Sound Trail added
 * 39th Ave South Greenway/Healthy Street from south of Othello to Kenyon added
