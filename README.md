@@ -14,10 +14,28 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.8.0 - June 8, 2025**
+**Latest Release 2.0.0 - July 15, 2025**
 
-* Juanita Drive bike lanes are finally open (again) in Juanita! There's still a little construction on sidewalks, but functionally, they're done
-* **MAJOR SEATTLE UPDATE** - continue reading for details
+The big update this release is making City of Seattle street labels legible when printed. This was a pretty big project, for several reasons, and involved patching many parts of the map by hand. This project is one of the reasons there are many small corrections in City of Seattle this release.
+
+(While I can edit their PDF directly and change sizes that way, they use an $1850 typeface and I do not have that money, at least, not for this project. Also, the PDF is optimised... presumably for _something_... whatever it might be for, it's in a way that makes it a nightmare to edit. So the hard way it is.)
+
+Changes with this release:
+
+* ADDED: The abovementioned font embiggening. I only enlarged street names which are directly or indirectly related to bike routes. I also added some street names left out in the original. If you would find other absent or small street names useful, please let me know and I will add and/or enlarge those, too (Seattle)
+* ADDED: Bell Street improved bike facilities (Seattle) 
+* ADDED WARNING: Construction underway for new bike lanes and sidewalk improvements on 61st Ave/Place (Kenmore)
+* RECONSTRUCTED: The north side of University Bridge in the U. District is a mess in real life, and I was asked to rework their map to at least try and make it more comprehensible. I tried. Feedback WILL be considered (Seattle)
+* WARNING: **The East Thomas to Elliott Bay Trail bridge** over the railroad tracks is **closing for construction THROUGH AUGUST**. Estimate for re-opening is September 3rd (Seattle)
+* WARNING: **Cross-Kirkland Connector trail will be CLOSED** due to construction at 85th Street until **May of 2026**. There will be signed detours (both ADA and not), but they're out of your way (Kirkland)
+* CORRECTION: A major maps error in Lake City still present in Seattle 2025 has finally been corrected here. This involved one bike route off a cliff and another down a multistorey stairwell. You're welcome. (Seattle)
+* Several other small Seattle 2023/2025 errors corrected - mislabelled streets, things like that (Seattle)
+
+Between the font enlargement and both 2 Line Connector Eastside and City of Seattle dropping 2025 updates, I am bumping the major version of Maps to 2. Really, I should've done it already, but at this point it's pretty comprehensive so I think we deserve a 2.0. As a treat. Enjoy. 
+
+Previous releases:
+
+Changes with 1.8.0 (June 8, 2025):
 
 Seattle have dropped a new bike map for 2025 and 2026, but have chosen to show several incomplete and/or entirely unstarted projects as completed. We respectfully disagree with this decision, as it will direct map users to infrastructure which is not actually present.
 
@@ -25,8 +43,9 @@ Therefore, we have chosen to stay with Seattle 2023 as our Seattle-area base map
 
 As additional Seattle projects are completed, we will add them to our maps. Once all projects shown on Seattle 2025 are completed, we will most likely transition to Seattle 2025 as our Seattle base map.
 
-Updates to our maps for this release which have been imported from Seattle 2025 include:
+Updates to our maps for this release include:
 
+* Juanita Drive bike lanes are finally open (again) in Juanita! There's still a little construction on sidewalks, but functionally, they're done
 * 1st Ave NW neighbourhood greenway north of Greenwood to Broadview added
 * S. Walden/Della neighbourhood greenway added
 * Ashworth Ave mix of neighbourhood greenway and ped/bike shared path added
@@ -44,9 +63,7 @@ Updates to our maps for this release which have been imported from Seattle 2025 
 * One block of Neighbourhood Greenway on 27th Ave NE north of Lake City REMOVED
 * Several small corrections/adjustments, carrying forward Seattle map corrections/adjustments
 
-Previous releases:
-
-Changes with 1.7.1 (June 1, 2025) (1.7.1, we hardly knew ye):
+Changes with 1.7.1 (June 1, 2025) (1.7.0, we hardly knew ye):
 
 * Extension of bike lanes in Kenmore on 80th Ave NE up to NE 185th/186th street
 * Refinement of intersections with streets on Interurban Trail North in Snohomish County
