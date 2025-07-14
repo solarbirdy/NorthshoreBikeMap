@@ -14,7 +14,39 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 1.7.1 - June 1, 2025**
+**Latest Release 1.8.0 - June 8, 2025**
+
+* Juanita Drive bike lanes are finally open (again) in Juanita! There's still a little construction on sidewalks, but functionally, they're done
+* **MAJOR SEATTLE UPDATE** - continue reading for details
+
+Seattle have dropped a new bike map for 2025 and 2026, but have chosen to show several incomplete and/or entirely unstarted projects as completed. We respectfully disagree with this decision, as it will direct map users to infrastructure which is not actually present.
+
+Therefore, we have chosen to stay with Seattle 2023 as our Seattle-area base map. We will take on the additional work of updating it for the next year, as we have been doing already. In addition to not showing incomplete/nonexistent infrastructure, this means we will continue to group "Neighbourhood Greenway" and "Healthy Street" under the same common green colour - Seattle 2025 breaks them out into blues and greens.
+
+As additional Seattle projects are completed, we will add them to our maps. Once all projects shown on Seattle 2025 are completed, we will most likely transition to Seattle 2025 as our Seattle base map.
+
+Updates to our maps for this release which have been imported from Seattle 2025 include:
+
+* 1st Ave NW neighbourhood greenway north of Greenwood to Broadview added
+* S. Walden/Della neighbourhood greenway added
+* Ashworth Ave mix of neighbourhood greenway and ped/bike shared path added
+* N. 120th St. neighbourhood greenway from Ashworth Ave to Corliss Ave added
+* N. 130th St. bike lanes north of Haller Lake added
+* W. Marginal Way SW bike lanes extended north to 17th Ave SW
+* 6th Ave NW steepness indicator in Fremont corrected
+* 6th Ave NW Neighbourhood Greenway corrected (was marked as bike lane)
+* Alki Drive/Beach Drive SW Healthy Street in West Seattle added
+* Maple Leaf Reservoir Neighbourhood Greenway added
+* Pike Street bike lane hillclimb over I-5 updated to reflect upgraded status
+* 21st Ave Greenway/Health Street from Columbia to Yesler added
+* Greenway/Healthy Street connection between 30th Ave S east of MLK to Mountains-to-Sound Trail added
+* 39th Ave South Greenway/Healthy Street from south of Othello to Kenyon added
+* One block of Neighbourhood Greenway on 27th Ave NE north of Lake City REMOVED
+* Several small corrections/adjustments, carrying forward Seattle map corrections/adjustments
+
+Previous releases:
+
+Changes with 1.7.1 (June 1, 2025) (1.7.1, we hardly knew ye):
 
 * Extension of bike lanes in Kenmore on 80th Ave NE up to NE 185th/186th street
 * Refinement of intersections with streets on Interurban Trail North in Snohomish County
@@ -22,32 +54,6 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * Small addition (short mixed-use trail, pedestrian first but bikes permitted) in northern Woodinville at 130th/132nd
 * Addition of north bike exit from Shoreline North 1 Line station - possibly part of the Trail Under the Rail system? It's not signed as such but it's in the right place for it.
 * Text cleanup in Redmond, replacing/moving text which gets cut off on the Greater Northshore map so that it is no longer cut off.
-
-Coming in next release:
-
-* Juanita Drive bike lanes in Juanita are finally open (again)!
-* SEATTLE have dropped a new bike map, but have chosen to show several incomplete and inaccessible projects as completed. We respectfully disagree with this decision. Accordingly, we are staying on Seattle 2023, and will continue to update it. Those updates so far include:
-* 6th Ave NW steepness indicator in Fremont corrected
-* 6th Ave NW Neighbourhood Greenway corrected (was marked as bike lane)
-* Alki Drive/Beach Drive SW Healthy Street in West Seattle added
-* Maple Leaf Reservoir Neighbourhood Greenway added
-* 12th Ave NE west-side bike lane in U. District added
-* Pike Street bike-lane hillclimb over I-5 updated
-* 21st Ave Greenway/Health Street from Columbia to Yesler added
-* Greenway/Healthy Street connection between 30th Ave S east of MLK to Mountains-to-Sound Trail added
-* 39th Ave South Greenway/Healthy Street from south of Othello to Kenyon added
-* One block of Neighbourhood Greenway on 27th Ave NE north of Lake City REMOVED
-* 1st Ave NW neighbourhood greenway north of Greenwood to Broadview added
-* S. Walden/Della neighbourhood greenway added
-* Ashworth Ave mix of neighbourhood greenway and ped/bike shared path added
-* N. 120th St. neighbourhood greenway from Ashworth Ave to Corliss Ave added
-* N. 130th St. bike lanes north of Haller Lake added
-* W. Marginal Way SW bike lanes extended north to 17th Ave SW
-* Several small corrections/adjustments, carrying forward Seattle map corrections/adjustments
-
-Six other additional projects in Seattle are incorrectly shown as completed on Seattle's map. As they are completed, we will add them. Once all are completed - current estimate is "by the end of 2025" - we will consider transitioning to Seattle 2025 as the next Seattle base map.
-
-Previous releases
 
 Changes with 1.7 (May 10, 2025):
 
