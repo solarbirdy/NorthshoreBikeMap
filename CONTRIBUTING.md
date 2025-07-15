@@ -8,7 +8,8 @@ CONTRIBUTORS as of Version 1.4.6, in order by date of initial contribution:
 * [wildjo](https://github.com/wildjo) on Github (Shoreline Interurban Trailhead repairs)
 * [@pruwyben@social.ridetrans.it](https://social.ridetrans.it/@pruwyben) on Mastodon (North Seattle, correction to NW 125th on Seattle's map)
 * [Best Side Cycling](https://www.youtube.com/@BestSideCycling) (indirect contribution via watching the videos; waterfront partial opening, Pipeline Trail "difficult" notation in 1.4.6)
-* Kerry Sullivan of Newcastle City Government (important May Creek Park Drive channelisation data) 
+* Kerry Sullivan of Newcastle City Government (important May Creek Park Drive channelisation data)
+* [Tom Fucoloro of Seattle Bike Blog](https://www.seattlebikeblog.com/) (information about another [City of Seattle maps error](https://social.ridetrans.it/@seabikeblog/114854311353878608), this one north of University Bridge)
 
 I am actively looking for updates to the Greater Northshore
 portion of the map, particularly those involving new bike
