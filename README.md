@@ -14,13 +14,21 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.0 - July 15, 2025**
+**Latest Release 2.0.1 - August 4, 2025**
 
-The big update this release is making City of Seattle street labels legible when printed. This was a pretty big project, for several reasons, and involved patching many parts of the map by hand. This project is one of the reasons there are many small corrections in City of Seattle this release.
+* ADDED: Alaskan Way Connector linking Elliot Bay Trail to Waterfront Trail with fully separated bikeways. Decades in the making, finally here (MEGAMAP only)
+* ADDED: Painted bike lanes on Meridian Ave N in Shoreline between 155th and 175th streets (both maps)
+* ADDED: "Commonly used" markers on Meridian Ave N throughout Shoreline (both maps) - this is somewhat aspirational, as there has been use of this road as a secondary to tertiary bike arterial but not quite enough to justify marking it as such until now. I am fairly certain that the new bike lanes in the middle of the route will increase its utility enough to justify it (both maps)
+* ADDED: "Commonly used" makers on a section of Fremont Ave in Shoreline, because that section is used a little more than parts of Meridian which now carry that marking, and one should be consistent (both maps)
+* ADDED: A weird little section of bike path I found in Lynnwood north of 196th at Wilcox Park. As 196th loses its sidewalks in that area, even this standalone oddness serves a useful purpose if you're sidewalk-biking on 196th (MEGAMAP only)
+* ADDED: A few more street names in City of Seattle, along with a couple of small adjustments on difficult streets (both maps)
+* CORRECTION: REI Lynnwood's icon was placed very slightly left of its actual location, and has been adjusted (MEGAMAP only)
 
-(While I can edit their PDF directly and change sizes that way, they use an $1850 typeface and I do not have that money, at least, not for this project. Also, the PDF is optimised... presumably for _something_... whatever it might be for, it's in a way that makes it a nightmare to edit. So the hard way it is.)
+Previous releases:
 
-Changes with this release:
+Changes with 2.0.0 (July 15, 2025):
+
+The big update this release is making City of Seattle street labels legible when printed. This was a pretty large and time consuming project for several reasons, and involved patching many parts of the map by hand. This project is one of the reasons there are many small corrections in City of Seattle this release.
 
 * ADDED: The abovementioned font embiggening. I only enlarged street names which are directly or indirectly related to bike routes. I also added some street names left out in the original. If you would find other absent or small street names useful, please let me know and I will add and/or enlarge those, too (Seattle)
 * ADDED: Bell Street improved bike facilities (Seattle) 
@@ -32,8 +40,6 @@ Changes with this release:
 * Several other small Seattle 2023/2025 errors corrected - mislabelled streets, things like that (Seattle)
 
 Between the font enlargement and both 2 Line Connector Eastside and City of Seattle dropping 2025 updates, I am bumping the major version of Maps to 2. Really, I should've done it already, but at this point it's pretty comprehensive so I think we deserve a 2.0. As a treat. Enjoy. 
-
-Previous releases:
 
 Changes with 1.8.0 (June 8, 2025):
 
