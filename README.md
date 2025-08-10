@@ -24,6 +24,12 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * ADDED: A few more street names in City of Seattle, along with a couple of small adjustments on difficult streets (both maps)
 * CORRECTION: REI Lynnwood's icon was placed very slightly left of its actual location, and has been adjusted (MEGAMAP only)
 
+Coming in next release:
+
+* ADDED: A block-long half-dirt connector between Ashworth and Densmore continuing N 157th for pedestrians and bicyclists willing to deal with a dirt path
+* ADDED: Extension of a Shoreline Trail Along the Rail fragment south of NE 185th all the way down to NE 180th; at previous check, it didn't quite connect, and now it does
+* CORRECTION: 10th Ave NE from 155th to 185th was listed as UNMARKED BUT POPULAR, but has sharrow markings, so will be re-marked as SHARROWS
+
 Previous releases:
 
 Changes with 2.0.0 (July 15, 2025):
