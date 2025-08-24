@@ -26,9 +26,12 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release:
 
+* ADDED: Redmond Central Connector extension up to Eastrail is open earlier than expected!
+* ADDED: Warning flag: the Pier 91 section of Elliot Bay Trail will close from 2 September to 2 October for repaving and rebuilding, including getting rid of that weird over-rail bridge. There WILL be a posted detour, but it's kinda long and involves Magnolia Bridge, so I'm flagging it.
 * ADDED: A block-long half-dirt connector between Ashworth and Densmore continuing N 157th for pedestrians and bicyclists willing to deal with a dirt path
 * ADDED: Extension of a Shoreline Trail Along the Rail fragment south of NE 185th all the way down to NE 180th; at previous check, it didn't quite connect, and now it does
 * CORRECTION: 10th Ave NE from 155th to 185th was listed as UNMARKED BUT POPULAR, but has sharrow markings, so will be re-marked as SHARROWS
+  
 
 Previous releases:
 
