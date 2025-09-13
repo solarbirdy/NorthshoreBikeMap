@@ -22,6 +22,11 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * ADDED: Extension of a Shoreline Trail Along the Rail fragment south of NE 185th all the way down to NE 180th; at previous check, it didn't quite connect, and now it does
 * CORRECTION: 10th Ave NE from 155th to 185th was listed as UNMARKED BUT POPULAR, but has sharrow markings, so will be re-marked as SHARROWS
 
+Coming in next release:
+
+* Removal of Thomas Street Bridge warning sign, since the bridge re-opened on schedule
+* ADDED: 15th Ave to Beacon Ave S protected bike lanes are finally open! This connects the International District all the way down to Jefferson Park and S. Spokane St.
+
 Previous releases:
 
 Changes with 2.0.1 (August 4, 2025):
