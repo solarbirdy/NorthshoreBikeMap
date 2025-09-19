@@ -14,20 +14,22 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.2 - August 24, 2025**
+**Latest Release 2.0.3 - September 19, 2025**
+
+All changes this release are MEGAMAP only, so only that map has received an update. 2.0.2 is still the latest release for the core Greater Northshore map.
+
+* REMOVED: Thomas Street Bridge warning sign, since the bridge re-opened on schedule
+* ADDED: 15th Ave to Beacon Ave S protected bike lanes are finally open! This connects the International District all the way down to Jefferson Park and S. Spokane St.
+
+Previous releases:
+
+Changes with 2.0.2 (August 24, 2025):
 
 * ADDED: Redmond Central Connector extension up to Eastrail at NE 124th is open earlier than expected!
 * ADDED: Warning flag: the Pier 91 section of Elliot Bay Trail will close from 2 September to 2 October for repaving and rebuilding, including getting replacing that weird steep over-rail bridge. There WILL be a posted detour, but it's kinda long and involves Magnolia Bridge, so I'm flagging it.
 * ADDED: A block-long half-dirt connector between Ashworth and Densmore continuing N 157th for pedestrians and bicyclists willing to deal with a dirt path
 * ADDED: Extension of a Shoreline Trail Along the Rail fragment south of NE 185th all the way down to NE 180th; at previous check, it didn't quite connect, and now it does
 * CORRECTION: 10th Ave NE from 155th to 185th was listed as UNMARKED BUT POPULAR, but has sharrow markings, so will be re-marked as SHARROWS
-
-Coming in next release:
-
-* Removal of Thomas Street Bridge warning sign, since the bridge re-opened on schedule
-* ADDED: 15th Ave to Beacon Ave S protected bike lanes are finally open! This connects the International District all the way down to Jefferson Park and S. Spokane St.
-
-Previous releases:
 
 Changes with 2.0.1 (August 4, 2025):
 
