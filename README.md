@@ -21,6 +21,13 @@ All changes this release are MEGAMAP only, so only that map has received an upda
 * REMOVED: Thomas Street Bridge warning sign, since the bridge re-opened on schedule
 * ADDED: 15th Ave to Beacon Ave S protected bike lanes are finally open! This connects the International District all the way down to Jefferson Park and S. Spokane St.
 
+Coming in next release (Weekend of October 3rd?):
+
+* ADDED: SODO to Georgetown connection along 6th Ave S, Alaska, and Airport Way S. This isn't technically done yet but people are actively riding it, so I'm adding it.
+* ADDED: Georgetown to South Park connection along Albro, Ellis, and E. Marginal Way, with existing bike lanes on 16th Ave S.
+* REMOVED: Final warning notice on Juanita Drive near Juanita Bay. The housing construction that has been extending into the roadway isn't 100% complete but it's close enough, it should be good.
+* PENDING REMOVAL: Assuming they're on time, the warning notice on the Interbay Trail near Terminal 9.
+
 Previous releases:
 
 Changes with 2.0.2 (August 24, 2025):
