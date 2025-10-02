@@ -25,8 +25,10 @@ Coming in next release (Weekend of October 3rd?):
 
 * ADDED: SODO to Georgetown connection along 6th Ave S, Alaska, and Airport Way S. This isn't technically done yet but people are actively riding it, so I'm adding it.
 * ADDED: Georgetown to South Park connection along Albro, Ellis, and E. Marginal Way, with existing bike lanes on 16th Ave S.
+* ADDED: Significant changes to "commonly used" routes in eastern Mountlake Terrace, western Briar, and even a little NE Lake Forest Park as people find ways to the Mountlake Terrace light rail station.
+* ADDED: More people on bikes means more "commonly used" routes in Bothell worth having on the map, so multiple such routes have been added.
 * REMOVED: Final warning notice on Juanita Drive near Juanita Bay. The housing construction that has been extending into the roadway isn't 100% complete but it's close enough, it should be good.
-* PENDING REMOVAL: Assuming they're on time, the warning notice on the Interbay Trail near Terminal 9.
+* REMOVED: Assuming they're on time, the warning notice on the Interbay Trail near Terminal 9.
 
 Previous releases:
 
