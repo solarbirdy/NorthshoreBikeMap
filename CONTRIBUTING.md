@@ -1,4 +1,4 @@
-CONTRIBUTORS as of Version 1.4.6, in order by date of initial contribution:
+CONTRIBUTORS as of Version 2.0.4, in order by date of initial contribution:
 
 * Erik H. on Facebook (Bothell bike lanes)
 * [@sip@social.ridetrans.it](https://social.ridetrans.it/@sip) on Mastodon (Shoreline bike lanes)
@@ -10,16 +10,8 @@ CONTRIBUTORS as of Version 1.4.6, in order by date of initial contribution:
 * [Best Side Cycling](https://www.youtube.com/@BestSideCycling) (indirect contribution via watching the videos; waterfront partial opening, Pipeline Trail "difficult" notation in 1.4.6)
 * Kerry Sullivan of Newcastle City Government (important May Creek Park Drive channelisation data)
 * [Tom Fucoloro of Seattle Bike Blog](https://www.seattlebikeblog.com/) (information about another [City of Seattle maps error](https://social.ridetrans.it/@seabikeblog/114854311353878608), this one north of University Bridge)
+* [@MHowell@kolektiva.social on Mastodon](https://kolektiva.social/@MHowell) for pointing out shifts in bike usage in Mountlake Terrace and western Briar as people figure out how to get to the light rail station
 
-I am actively looking for updates to the Greater Northshore
-portion of the map, particularly those involving new bike
-infrastructure.
+I am actively looking for corrections and updates to all maps, particularly those involving new bike infrastructure.
 
-I am aware of work underway in Shoreline, but I'm rarely
-too far over there so find it hard to monitor. (I am on the
-NE 145th Street mailing list, though.) I'm also aware of work
-planned but not yet underway in Kenmore.
-
-I'm particularly _unaware_ of Woodinville and unincorporated
-King County projects. If you're in a position to provide updates
-on these, I want to know! And thank you!
+I'm particularly _unaware_ of Woodinville and unincorporated King County projects. If you're in a position to provide updates on these, I want to know! And thank you!
