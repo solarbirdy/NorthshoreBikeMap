@@ -14,23 +14,27 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.3 - September 19, 2025**
+**Latest Release 2.0.4 - October 3, 2025**
 
-All changes this release are MEGAMAP only, so only that map has received an update. 2.0.2 is still the latest release for the core Greater Northshore map.
+**WARNING: KIRKLAND CENTRAL CONNECTOR southern leg is CLOSED for emergency sewer repair work.** It is a major outage and the City of Kirkland is estimating two weeks of work. Detour is via Lake Washington Boulevard between either NE 68th or NE 52nd and 108th Avenue NE. The MEGAMAP has been updated to contain all relevant data with a special red border box because of the short notice involved.
+
+Most major updates are in south Seattle, with two major connectors newly open. They aren't entirely complete, but they're open and major improvements over what was there before. I would personally say the northern leg (SODO to Georgetown) is probably rougher? The southern leg (Georgetown to as far as it goes towards South Park) looks pretty good except for an incomplete corner improvement which won't be built until 2026.
+
+Greater Northshore updates are mostly about "commonly used" routes, particularly people finding preferred routes to the Mountlake Terrace light rail station.
+
+* ADDED: SODO to Georgetown connection along 6th Ave S, Alaska, and Airport Way S. This isn't technically done yet but it is open and people are actively riding it, so I'm adding it.
+* ADDED: Georgetown to South Park connection along Albro, Ellis, and E. Marginal Way, with existing bike lanes on 16th Ave S. More work is pending, via technically separate projects rolling out in early 2026.
+* ADDED: Significant changes to "commonly used" routes in eastern Mountlake Terrace, western Briar, and even a little NE Lake Forest Park as people find ways to the Mountlake Terrace light rail station. Thanks to [@MHowell@kolektiva.social on Mastodon](https://kolektiva.social/@MHowell) for pointing this out, I hadn't noticed the shift yet.
+* ADDED: More people on bikes means more "commonly used" routes in Bothell worth having on the map, so multiple such routes have been added.
+* REMOVED: Final warning notice on Juanita Drive near Juanita Bay. The housing construction that has been extending into the roadway isn't 100% complete but it's close enough, it should be good.
+* REMOVED: The warning notice on the Interbay Trail near Terminal 9. The "bridge over nothing" (or "bridge to nowhere") which two decades ago went over a driveway is finally gone, much like the driveway, just much much later.
+
+Previous releases:
+
+Changes with 2.0.3 (September 19, 2025):
 
 * REMOVED: Thomas Street Bridge warning sign, since the bridge re-opened on schedule
 * ADDED: 15th Ave to Beacon Ave S protected bike lanes are finally open! This connects the International District all the way down to Jefferson Park and S. Spokane St.
-
-Coming in next release (Weekend of October 3rd?):
-
-* ADDED: SODO to Georgetown connection along 6th Ave S, Alaska, and Airport Way S. This isn't technically done yet but people are actively riding it, so I'm adding it.
-* ADDED: Georgetown to South Park connection along Albro, Ellis, and E. Marginal Way, with existing bike lanes on 16th Ave S.
-* ADDED: Significant changes to "commonly used" routes in eastern Mountlake Terrace, western Briar, and even a little NE Lake Forest Park as people find ways to the Mountlake Terrace light rail station.
-* ADDED: More people on bikes means more "commonly used" routes in Bothell worth having on the map, so multiple such routes have been added.
-* REMOVED: Final warning notice on Juanita Drive near Juanita Bay. The housing construction that has been extending into the roadway isn't 100% complete but it's close enough, it should be good.
-* REMOVED: Assuming they're on time, the warning notice on the Interbay Trail near Terminal 9.
-
-Previous releases:
 
 Changes with 2.0.2 (August 24, 2025):
 
