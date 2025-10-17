@@ -32,6 +32,7 @@ Greater Northshore updates are mostly about "commonly used" routes, particularly
 Coming in next release:
 
 * Two-way bike lane OPENS on E. Marginal Way S on 9 October 2025 from Edgar Martinez/Atlantic down to Horton St., at which point you cross over at a new bike crossing to the existing ped/bike mixed-use trail which connects to Spokane Street Trail. This creates a no-car-interaction connection. These bike lanes will be extended from Horton directly to Spokane Street in early 2026.
+* Bike lanes on northern 100th Ave NE in Juanita upgraded and extended to cover NE 139th St. through NE 145th St.
 * Update on southern emergency sewer repair closing the south end of the Central Kirkland Connector. Short form: once it re-opens, it will be closing again intermittently for additional work. This will mostly be an alert box change.
 
 Previous releases:
