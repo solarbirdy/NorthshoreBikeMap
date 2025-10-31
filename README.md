@@ -20,6 +20,11 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * ADDED/UPGRADED: Bike lanes on northern 100th Ave NE in Juanita upgraded and extended to cover NE 139th St. through NE 145th St. (Both maps)
 * UPDATED WARNING: The south leg of the Central Kirkland Connector is BRIEFLY reopening this weekend (October 18 and 19) for a marathon event before CLOSING again until late October for continuing emergency sewer repair work. Once it does re-open, it will be closing again intermittently for additional work. On the maps proper, this is mostly be an alert box change. (MEGAMAP)
 
+Coming in next release:
+
+* NOTICE: 124th Ave NE extension of bike lanes to NE 124th St are, according to Kirkland on October 30th, supposed to be finished by October 31st. Seeing 124th NE at NE 116th on October 31st at noon, I do not believe that to be possible. North of 116th may be possible. However, the north end looks finished so I'll be adding the bike lanes.
+* WARNING: Sammamish River Trail will be CLOSED intermittently and without warning entering Woodinville between November 3rd and 14th, WITHOUT an official detour. This unacceptable situation is why I'm going to drop a release this weekend even with the NE 124th situation undefined. The alternate route you want to take is through the chain link fence gap to 178th NE and successor roads past McLendons, 131st Ave NE under the railroad bridge, and either the 175th Ave NE trail access ramps or trail access points in central Wilmont Gateway Park.
+
 Previous releases:
 
 Changes with 2.0.4 (October 3, 2025):
