@@ -14,18 +14,18 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.5 - October 17, 2025**
+**Latest Release 2.0.6 - November 1, 2025**
+
+* WARNING: Sammamish River Trail will be CLOSED intermittently and without warning entering Woodinville from Bothell between November 3rd and 14th, WITHOUT an official detour. This unacceptable situation is why I'm dropping this release even with the NE 124th situation undefined. (See next entry.) The alternate route you want to take is through the chain link fence gap to 178th NE and successor roads past McLendons, 131st Ave NE under the railroad bridge, and either the 175th Ave NE trail access ramps or trail access points in central Wilmont Gateway Park. (Both maps).
+* ADDED, with caveats: 124th Ave NE extension of bike lanes to NE 124th St are, according to Kirkland on October 30th, supposed to be finished by October 31st. That has not happened. However, the north end looks finished and the south end is in rage, so I'll be adding the bike lanes to (Both maps).
+
+Previous releases:
+
+Changes with 2.0.5 (October 17, 2025):
 
 * ADDED: Two-way bike lane opened on E. Marginal Way S on 9 October 2025 from Edgar Martinez/Atlantic down to Horton St., at which point you cross over at a new bike crossing to the existing ped/bike mixed-use trail which connects to Spokane Street Trail. This creates a no-car-interaction connection. These bike lanes will be extended from Horton directly to Spokane Street in early 2026. (MEGAMAP)
 * ADDED/UPGRADED: Bike lanes on northern 100th Ave NE in Juanita upgraded and extended to cover NE 139th St. through NE 145th St. (Both maps)
 * UPDATED WARNING: The south leg of the Central Kirkland Connector is BRIEFLY reopening this weekend (October 18 and 19) for a marathon event before CLOSING again until late October for continuing emergency sewer repair work. Once it does re-open, it will be closing again intermittently for additional work. On the maps proper, this is mostly be an alert box change. (MEGAMAP)
-
-Coming in next release:
-
-* NOTICE: 124th Ave NE extension of bike lanes to NE 124th St are, according to Kirkland on October 30th, supposed to be finished by October 31st. Seeing 124th NE at NE 116th on October 31st at noon, I do not believe that to be possible. North of 116th may be possible. However, the north end looks finished so I'll be adding the bike lanes.
-* WARNING: Sammamish River Trail will be CLOSED intermittently and without warning entering Woodinville between November 3rd and 14th, WITHOUT an official detour. This unacceptable situation is why I'm going to drop a release this weekend even with the NE 124th situation undefined. The alternate route you want to take is through the chain link fence gap to 178th NE and successor roads past McLendons, 131st Ave NE under the railroad bridge, and either the 175th Ave NE trail access ramps or trail access points in central Wilmont Gateway Park.
-
-Previous releases:
 
 Changes with 2.0.4 (October 3, 2025):
 
