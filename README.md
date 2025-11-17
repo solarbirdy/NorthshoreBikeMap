@@ -20,6 +20,10 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * ADDED, with caveats: 124th Ave NE extension of bike lanes to NE 124th St are, according to Kirkland on October 30th, supposed to be finished by October 31st. That has not happened. However, the north end looks finished and the south end is in rage, so I'll be adding the bike lanes to (Both maps).
 * WARNING: South leg of Central Kirkland Connector is now going to be 100% closed through at least the end of NOVEMBER for ongoing emergency sewer work. Alert box modified to indicate the new length of 100% closure. (MEGAMAP only)
 
+Coming in next release:
+
+* CORRECTION: 132nd/134th from NE 24th to NE 60th in Bellevue along Bridal Trails Park is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected locally (ala Seattle corrections) and I will relay the error to the central 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction. 
+
 Previous releases:
 
 Changes with 2.0.5 (October 17, 2025):
