@@ -22,7 +22,8 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release:
 
-* CORRECTION: 132nd/134th from NE 24th to NE 60th in Bellevue along Bridal Trails Park is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected locally (ala Seattle corrections) and I will relay the error to the central 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction. 
+* CORRECTION: 132nd/134th from NE 24th to NE 60th in Bellevue along Bridal Trails Park is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected locally (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
+* CORRECTION: NE 40th in Bellevue between 140th and 148th Ave NE is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected local (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
 
 Previous releases:
 
