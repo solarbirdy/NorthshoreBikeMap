@@ -14,18 +14,20 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.6 - November 1, 2025**
+**Latest Release 2.0.7 - November 23, 2025**
+
+* WARNING: EastRail Trail South in Renton near the Seahawks Training Centre will be CLOSED from December 1-5 for regravelling.
+* CORRECTION: 132nd/134th from NE 24th to NE 60th in Bellevue along Bridal Trails Park is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected locally (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
+* CORRECTION: NE 40th in Bellevue between 140th and 148th Ave NE is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected local (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
+* REMOVED: Work on Sammamish River Trail in Woodinville between 175th and 178th is functionally complete, and no more closures are listed.  
+
+Previous releases:
+
+**Latest Release 2.0.6/a - November 1, 2025**
 
 * WARNING: Sammamish River Trail will be CLOSED intermittently and without warning entering Woodinville from Bothell between November 3rd and 14th, WITHOUT an official detour. This unacceptable situation is why I'm dropping this release even with the NE 124th situation undefined. (See next entry.) The alternate route you want to take is through the chain link fence gap to 178th NE and successor roads past McLendons, 131st Ave NE under the railroad bridge, and either the 175th Ave NE trail access ramps or trail access points in central Wilmont Gateway Park. (Both maps).
 * ADDED, with caveats: 124th Ave NE extension of bike lanes to NE 124th St are, according to Kirkland on October 30th, supposed to be finished by October 31st. That has not happened. However, the north end looks finished and the south end is in rage, so I'll be adding the bike lanes to (Both maps).
 * WARNING: South leg of Central Kirkland Connector is now going to be 100% closed through at least the end of NOVEMBER for ongoing emergency sewer work. Alert box modified to indicate the new length of 100% closure. (MEGAMAP only)
-
-Coming in next release:
-
-* CORRECTION: 132nd/134th from NE 24th to NE 60th in Bellevue along Bridal Trails Park is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected locally (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
-* CORRECTION: NE 40th in Bellevue between 140th and 148th Ave NE is currently INCORRECTLY labelled as having bike lanes. IT DOES NOT. This will be corrected local (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
-
-Previous releases:
 
 Changes with 2.0.5 (October 17, 2025):
 
