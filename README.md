@@ -23,7 +23,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Previous releases:
 
-**Latest Release 2.0.6/a - November 1, 2025**
+Changes with 2.0.6/a (November 1, 2025):
 
 * WARNING: Sammamish River Trail will be CLOSED intermittently and without warning entering Woodinville from Bothell between November 3rd and 14th, WITHOUT an official detour. This unacceptable situation is why I'm dropping this release even with the NE 124th situation undefined. (See next entry.) The alternate route you want to take is through the chain link fence gap to 178th NE and successor roads past McLendons, 131st Ave NE under the railroad bridge, and either the 175th Ave NE trail access ramps or trail access points in central Wilmont Gateway Park. (Both maps).
 * ADDED, with caveats: 124th Ave NE extension of bike lanes to NE 124th St are, according to Kirkland on October 30th, supposed to be finished by October 31st. That has not happened. However, the north end looks finished and the south end is in rage, so I'll be adding the bike lanes to (Both maps).
