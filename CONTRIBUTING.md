@@ -11,6 +11,7 @@ CONTRIBUTORS as of Version 2.0.4, in order by date of initial contribution:
 * Kerry Sullivan of Newcastle City Government (important May Creek Park Drive channelisation data)
 * [Tom Fucoloro of Seattle Bike Blog](https://www.seattlebikeblog.com/) (information about another [City of Seattle maps error](https://social.ridetrans.it/@seabikeblog/114854311353878608), this one north of University Bridge)
 * [@MHowell@kolektiva.social on Mastodon](https://kolektiva.social/@MHowell) (pointing out shifts in bike usage in Mountlake Terrace and western Briar as people figure out how to get to the light rail station)
+* [astuder](https://github.com/astuder) on here for pointing out two significant errors in the 2 Line Connector map showing bike lanes where they did not in fact exist
 
 I am actively looking for corrections and updates to all maps, particularly those involving new bike infrastructure.
 
