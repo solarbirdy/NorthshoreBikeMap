@@ -14,20 +14,22 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.7 - November 23, 2025**
+**Latest Release 2.0.8 - Febuary 14, 2026**
 
-* WARNING: EastRail Trail South in Renton near the Seahawks Training Centre will be CLOSED from December 1-5 for regravelling.
-* CORRECTION: 132nd/134th from NE 24th to NE 60th in Bellevue along Bridal Trails Park was INCORRECTLY labelled as having bike lanes. IT DOES NOT. This has been corrected locally (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
-* CORRECTION: NE 40th in Bellevue between 140th and 148th Ave NE was INCORRECTLY labelled as having bike lanes. IT DOES NOT. This has been corrected locally (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction.
-* REMOVED: Work on Sammamish River Trail in Woodinville between 175th and 178th is functionally complete, and no more closures are listed.
-
-Coming in next release:
-
-* WARNING: Burke-Gilman CLOSURE in Kenmore for emergency repairs. They aren't saying what but it's almost certainly hillside stabilisation. Between 61st and 65th Aves NE, February 16-20.
-* WARNING: I should've dropped this already, but I've added caution flags on 125th NE in Seattle showing the rework in progress through November 2026. This is a massive project and will be a massive upgrade.
-* WARNING: Kirkland's sewer line repair work still hasn't let the southern Central Kirkland Connector reopen, and the latest word is end of February. Notice updated to reflect that.
+* WARNING: Burke-Gilman CLOSURE in Kenmore for emergency repairs. They aren't saying what, but it's almost certainly hillside stabilisation where they piled up highway legos a few months ago. Between 61st and 65th Aves NE, February 16-20. (Both maps)
+* WARNING: I should've added this already, but I've now added caution flags on 125th NE in Seattle showing the rework in progress through November 2026. This is a massive project and will be a massive upgrade. (Both maps)
+* WARNING: Kirkland's sewer line repair work still hasn't let the southern Central Kirkland Connector reopen, and the latest word is end of February. Notice updated to reflect that. (MEGAMAP only)
+* REMOVED WARNING: EastRail Trail South temporary closure in Renton is over, so the warning has been removed. (MEGAMAP only)
+* REMOVED WARNING: Final work on the extended bike lanes of NE 124th in Kirkland wrapped up, so that warning has been removed. (Both maps)
 
 Previous releases:
+
+Changes with 2.0.7 (November 23, 2025):
+
+* WARNING: EastRail Trail South in Renton near the Seahawks Training Centre will be CLOSED from December 1-5 for regravelling. (MEGAMAP only)
+* CORRECTION: 132nd/134th from NE 24th to NE 60th in Bellevue along Bridal Trails Park was INCORRECTLY labelled as having bike lanes. IT DOES NOT. This has been corrected locally (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction. (MEGAMAP only)
+* CORRECTION: NE 40th in Bellevue between 140th and 148th Ave NE was INCORRECTLY labelled as having bike lanes. IT DOES NOT. This has been corrected locally (ala Seattle corrections) and I will relay the error to the maintainers of the 2 Line Bike Connector Map. Thanks to [@astruder](https://github.com/astuder) for the correction. (MEGAMAP only)
+* REMOVED: Work on Sammamish River Trail in Woodinville between 175th and 178th is functionally complete, and no more closures are listed. (Both maps)
 
 Changes with 2.0.6/a (November 1, 2025):
 
