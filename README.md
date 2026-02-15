@@ -22,6 +22,11 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * REMOVED WARNING: EastRail Trail South temporary closure in Renton is over, so the warning has been removed. (MEGAMAP only)
 * REMOVED WARNING: Final work on the extended bike lanes of NE 124th in Kirkland wrapped up, so that warning has been removed. (Both maps)
 
+Coming in next release:
+
+* CORRECTED: Corrections and additions clarifying the Kirkland Avenue route crossing both Eastrail/Central Kirkland Connector and 405. Also removes a 2 Line Eastside map error.
+* ADDED: Kirkland Way uphill side/east side bike lane running from just northeast of Railroad Way to just shy of NE 85th. It's a bit of an island but it's decent.
+
 Previous releases:
 
 Changes with 2.0.7 (November 23, 2025):
