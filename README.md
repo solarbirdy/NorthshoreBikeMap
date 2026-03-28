@@ -14,20 +14,22 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.8 - Febuary 14, 2026**
+**Latest Release 2.0.9 - March 27, 2026**
+
+* CORRECTED: Corrections and additions clarifying the Kirkland Avenue route crossing both Eastrail/Central Kirkland Connector and 405. Also removes a 2 Line Eastside map error.
+* ADDED: Kirkland Way uphill side/east side bike lane running from just northeast of Railroad Way to just shy of NE 85th. It's a bit of an island but it's decent.
+* REMOVED WARNING: Burke-Gilman very-short-term closure in Kenmore removed. (Both maps)
+* REMOVED WARNING: Kirkland's sewer line repair let the southern Central Kirkland Connector reopen, so the warnings are gone. (MEGAMAP only)
+
+Previous releases:
+
+Changes with 2.0.8 (February 14, 2026):
 
 * WARNING: Burke-Gilman CLOSURE in Kenmore for emergency repairs. They aren't saying what, but it's almost certainly hillside stabilisation where they piled up highway legos a few months ago. Between 61st and 65th Aves NE, February 16-20. (Both maps)
 * WARNING: I should've added this already, but I've now added caution flags on 125th NE in Seattle showing the rework in progress through November 2026. This is a massive project and will be a massive upgrade. (Both maps)
 * WARNING: Kirkland's sewer line repair work still hasn't let the southern Central Kirkland Connector reopen, and the latest word is end of February. Notice updated to reflect that. (MEGAMAP only)
 * REMOVED WARNING: EastRail Trail South temporary closure in Renton is over, so the warning has been removed. (MEGAMAP only)
 * REMOVED WARNING: Final work on the extended bike lanes of NE 124th in Kirkland wrapped up, so that warning has been removed. (Both maps)
-
-Coming in next release:
-
-* CORRECTED: Corrections and additions clarifying the Kirkland Avenue route crossing both Eastrail/Central Kirkland Connector and 405. Also removes a 2 Line Eastside map error.
-* ADDED: Kirkland Way uphill side/east side bike lane running from just northeast of Railroad Way to just shy of NE 85th. It's a bit of an island but it's decent.
-
-Previous releases:
 
 Changes with 2.0.7 (November 23, 2025):
 
