@@ -21,6 +21,10 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * REMOVED WARNING: Burke-Gilman very-short-term closure in Kenmore removed. (Both maps)
 * REMOVED WARNING: Kirkland's sewer line repair let the southern Central Kirkland Connector reopen, so the warnings are gone. (MEGAMAP only)
 
+Coming in next release:
+
+* ADDED: New extension of protected bike lanes on Yesler Way, connecting Second Avenue to Alaskan Way downtown (MEGAMAN only)
+
 Previous releases:
 
 Changes with 2.0.8 (February 14, 2026):
