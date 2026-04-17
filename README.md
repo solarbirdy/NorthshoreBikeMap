@@ -24,6 +24,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 Coming in next release:
 
 * Welcome to the MEGAMAP the south end communities and towns of WHITE CENTER, GLENDALE, northernmost TUKWILA, LAKERIDGE and BRYN MAWR, as we fill in all the gaps south of Seattle that still fit in the map boundary. Yes, I finally managed to join KCGIS, City of Seattle, and King County Regional Trails. This was more of a challenge than you might think.
+* ADDED: All stations served by the 2 Line are now marked, including adding new station markers for Mercer Island and Judkins Park, but also adding 2 circles to all stations served up to and including Lynnwood.
 * ADDED: New extension of protected bike lanes on Yesler Way, connecting Second Avenue to Alaskan Way downtown (MEGAMAN only)
 
 Previous releases:
