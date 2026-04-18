@@ -7,8 +7,7 @@ southwest Snohomish County communities of Edmonds, Lynnwood, Mountlake Terrace, 
 
 And the MEGAMAP [(direct link)](https://github.com/solarbirdy/NorthshoreBikeMap/blob/main/MEGAMAP%20Combined%20Bike%20Map%20(Greater%20Northshore%2C%20Seattle%2C%202%20Line%20Eastside%2C%20NW%20King%20County).jpg)
 
-Combining Greater Northshore, City of Seattle, 2 Line Eastside, and a small piece of
-King County Regional Trails into a poster-sized high-detail MEGAMAP. 
+Combining Greater Northshore, City of Seattle, 2 Line Eastside, and Newcastle to White Center into a poster-sized high-detail MEGAMAP. 
 
 You may submit new route data via issues here on Github, or leave them in comments on my blog:
 
