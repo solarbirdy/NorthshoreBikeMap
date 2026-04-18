@@ -14,20 +14,20 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.0.9 - March 27, 2026**
+**Latest Release 2.1.0 - April 17, 2026**
 
-* CORRECTED: Corrections and additions clarifying the Kirkland Avenue route crossing both Eastrail/Central Kirkland Connector and 405. Also removes a 2 Line Eastside map error.
-* ADDED: Kirkland Way uphill side/east side bike lane running from just northeast of Railroad Way to just shy of NE 85th. It's a bit of an island but it's decent.
-* REMOVED WARNING: Burke-Gilman very-short-term closure in Kenmore removed. (Both maps)
-* REMOVED WARNING: Kirkland's sewer line repair let the southern Central Kirkland Connector reopen, so the warnings are gone. (MEGAMAP only)
-
-Coming in next release:
-
-* Welcome to the MEGAMAP the south end communities and towns of WHITE CENTER, GLENDALE, northernmost TUKWILA, LAKERIDGE and BRYN MAWR, as we fill in all the gaps south of Seattle that still fit in the map boundary. Yes, I finally managed to join KCGIS, City of Seattle, and King County Regional Trails. This was more of a challenge than you might think.
-* ADDED: All stations served by the 2 Line are now marked, including adding new station markers for Mercer Island and Judkins Park, but also adding 2 circles to all stations served up to and including Lynnwood.
-* ADDED: New extension of protected bike lanes on Yesler Way, connecting Second Avenue to Alaskan Way downtown (MEGAMAN only)
+* WELCOME TO THE MEGAMAP the south end communities of WHITE CENTER, GLENDALE, LAKERIDGE, BRYN MAWR, and northernmost TUKWILA as we fill in all the gaps south of Seattle that still fit in the map frame. Yes, I finally managed to join KCGIS, City of Seattle, and King County Regional Trails. This was more of a challenge than you might think. The winter goal has been accomplished; coverage area is now complete. (MEGAMAP only)
+* ADDED: All stations served by the 2 Line are now marked as such, including markers for the newly open stations Mercer Island and Judkins Park. (Both maps)
+* ADDED: New extension of protected bike lanes on Yesler Way, connecting Second Avenue to Alaskan Way downtown (MEGAMAP only)
 
 Previous releases:
+
+Changes with 2.0.9 (March 17, 2026):
+
+* CORRECTED: Corrections and additions clarifying the Kirkland Avenue route crossing both Eastrail/Central Kirkland Connector and 405. Also removes a 2 Line Eastside map error.
+* ADDED: Kirkland Way uphill side/east side bike lane running from just northeast of Railroad Way to just shy of NE 85th. It's a bit of an island but it's there.
+* REMOVED WARNING: Burke-Gilman very-short-term closure in Kenmore removed. (Both maps)
+* REMOVED WARNING: Kirkland's sewer line repair let the southern Central Kirkland Connector reopen, so the warnings are gone. (MEGAMAP only)
 
 Changes with 2.0.8 (February 14, 2026):
 
