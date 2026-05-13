@@ -19,6 +19,11 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * ADDED: All stations served by the 2 Line are now marked as such, including markers for the newly open stations Mercer Island and Judkins Park. (Both maps)
 * ADDED: New extension of protected bike lanes on Yesler Way, connecting Second Avenue to Alaskan Way downtown (MEGAMAP only)
 
+Coming in next release:
+
+* ADDED: Newly-opened protected bike lane along Broad Street in front of the Space Needle all the way to the 4th Ave downtown bike corridor. (MEGAMAP only)
+* ADDED: A missing short bike lane on Broad Street from Elliot Ave to Elliot Bay Trail (northwest side only) has been added ot the map. (MEGAMAP only)
+
 Previous releases:
 
 Changes with 2.0.9 (March 17, 2026):
