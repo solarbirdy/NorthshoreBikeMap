@@ -23,6 +23,7 @@ Coming in next release:
 
 * ADDED: Newly-opened protected bike lane along Broad Street in front of the Space Needle all the way to the 4th Ave downtown bike corridor. (MEGAMAP only)
 * ADDED: A missing short bike lane on Broad Street from Elliot Ave to Elliot Bay Trail (northwest side only) has been added ot the map. (MEGAMAP only)
+* ADDED: T-033 Phase II in Newcastle, which completes the eastbound bike lane on May Creek Park Drive east from the roundabout. Westbound got a sharrow, but no lane. (MEGAMAP only)
 
 Previous releases:
 
