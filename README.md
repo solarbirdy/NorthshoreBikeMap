@@ -15,8 +15,8 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 **Latest Release 2.1.1 - May 15, 2026**
 
-* ADDED: Newly-opened protected bike lane along Broad Street in front of the Space Needle all the way to the 4th Ave downtown bike corridor. (MEGAMAP only)
-* ADDED: A missing short bike lane on Broad Street from Elliot Ave to Elliot Bay Trail (northwest side only) has been added ot the map. (MEGAMAP only)
+* ADDED: Newly-opened protected bike lane along Broad Street in front of the Space Needle all the way to the 4th Ave downtown bike corridor. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) for confirmational photos! (MEGAMAP only)
+* ADDED: A missing short bike lane on Broad Street from Elliot Ave to Elliot Bay Trail (northwest side only) has been added ot the map. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) for the tip! (MEGAMAP only)
 * ADDED: T-033 Phase II in Newcastle, which completes the eastbound bike lane on May Creek Park Drive east from the roundabout. Westbound got a sharrow, but no lane. (MEGAMAP only)
 * CHANGED: The CKC closure-with-difficult-detours is extended at least through the end of May, and may (may!) go into June. Warning flag modified to note this. (Both maps)
 
