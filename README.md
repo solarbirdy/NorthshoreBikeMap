@@ -13,19 +13,20 @@ You may submit new route data via issues here on Github, or leave them in commen
 
 https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
-**Latest Release 2.1.0 - April 17, 2026**
-
-* WELCOME TO THE MEGAMAP the south end communities of WHITE CENTER, GLENDALE, LAKERIDGE, BRYN MAWR, and northernmost TUKWILA as we fill in all the gaps south of Seattle that still fit in the map frame. Yes, I finally managed to join KCGIS, City of Seattle, and King County Regional Trails. This was more of a challenge than you might think. The winter goal has been accomplished; coverage area is now complete. (MEGAMAP only)
-* ADDED: All stations served by the 2 Line are now marked as such, including markers for the newly open stations Mercer Island and Judkins Park. (Both maps)
-* ADDED: New extension of protected bike lanes on Yesler Way, connecting Second Avenue to Alaskan Way downtown (MEGAMAP only)
-
-Coming in next release:
+**Latest Release 2.1.1 - May 15, 2026**
 
 * ADDED: Newly-opened protected bike lane along Broad Street in front of the Space Needle all the way to the 4th Ave downtown bike corridor. (MEGAMAP only)
 * ADDED: A missing short bike lane on Broad Street from Elliot Ave to Elliot Bay Trail (northwest side only) has been added ot the map. (MEGAMAP only)
 * ADDED: T-033 Phase II in Newcastle, which completes the eastbound bike lane on May Creek Park Drive east from the roundabout. Westbound got a sharrow, but no lane. (MEGAMAP only)
+* CHANGED: The CKC closure-with-difficult-detours is extended at least through the end of May, and may (may!) go into June. Warning flag modified to note this. (Both maps)
 
 Previous releases:
+
+Changes with 2.1.0 (April 17, 2026):
+
+* WELCOME TO THE MEGAMAP the south end communities of WHITE CENTER, GLENDALE, LAKERIDGE, BRYN MAWR, and northernmost TUKWILA as we fill in all the gaps south of Seattle that still fit in the map frame. Yes, I finally managed to join KCGIS, City of Seattle, and King County Regional Trails. This was more of a challenge than you might think. The winter goal has been accomplished; coverage area is now complete. (MEGAMAP only)
+* ADDED: All stations served by the 2 Line are now marked as such, including markers for the newly open stations Mercer Island and Judkins Park. (Both maps)
+* ADDED: New extension of protected bike lanes on Yesler Way, connecting Second Avenue to Alaskan Way downtown (MEGAMAP only)
 
 Changes with 2.0.9 (March 17, 2026):
 
