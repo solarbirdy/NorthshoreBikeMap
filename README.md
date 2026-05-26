@@ -20,6 +20,10 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 * ADDED: T-033 Phase II in Newcastle, which completes the eastbound bike lane on May Creek Park Drive east from the roundabout. Westbound got a sharrow, but no lane. (MEGAMAP only)
 * CHANGED: The CKC closure-with-difficult-detours is extended at least through the end of May, and may (may!) go into June. Warning flag modified to note this. (Both maps)
 
+Coming in next release:
+
+* ADDED: Short extension of bike lane on eastbound 200th St. SW, connecting the lane to 48th Ave W. The westbound direction continues to be just a sharrow. (Both maps)
+
 Previous releases:
 
 Changes with 2.1.0 (April 17, 2026):
