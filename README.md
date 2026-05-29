@@ -22,9 +22,9 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 
 Coming in next release:
 
-* ADDED: Short extension of bike lane on eastbound 200th St. SW, connecting the lane to 48th Ave W. The westbound direction continues to be just a sharrow. (Both maps)
+* ADDED: Short extension of bike lane on eastbound 200th St. SW in Lynnwood, connecting the lane to 48th Ave W. The westbound direction continues to be just a sharrow. (Both maps)
 * ADDED: This paint that looked like a bike lane but had no markings in Lake Forest Park now has a confirmed sign saying it's for bikes AND pedestrians both, so now it goes on the map with a special note. (Both maps)
-* UPGRADE: The east side of 15th Ave NE in Shoreline south of Hamlin Park has an off-street bike path now, rather than just a bike lane. Map updated to reflect this in the affected area. 
+* UPGRADE: The east side of 15th Ave NE in Shoreline south of Hamlin Park has an off-street bike path now, rather than just a bike lane. Map updated to reflect this in the affected area. (Both maps)
 
 Previous releases:
 
