@@ -23,7 +23,7 @@ https://solarbird.net/blog/2024/06/17/contact-bikemap/
 Coming in next release:
 
 * REOPENED: Cross-Kirkland Connector at 85th NE is OPEN WITHOUT DETOUR. Work continues but the route is clear! (Both maps)
-* ADDED: Fremont Ave gained a protected bike lane on the east side/northbound direction between N 35th and N 36th. It will also be receiving an extension of that down to N 34th, but that part isn't done yet so is not yet added. Soon! Thanks to @sdwilsh for the contribution! (MEGAMAP only)
+* ADDED: Fremont Ave gained a protected bike lane on the east side/northbound direction between N 35th and N 36th. It will also be receiving an extension of that down to N 34th, but that part isn't done yet so is not yet added. Soon! Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) again for the contribution! (MEGAMAP only)
 * ADDED: The previously-unmarked bike lanes on 100th Ave NE between Waynita Way and Kirkland now link to something and are have received at least one official marking, so are now officially on the map. (Both maps)
 * EXTENDED: The new 100th Ave NE off-road protected bike lanes on 100th Ave NE in Kirkland now extend to NE 138th Street, so have received upgraded markings and been extended on the map. (Both maps)
 * ADDED: Short extension of bike lane on eastbound 200th St. SW in Lynnwood, connecting the lane to 48th Ave W. The westbound direction continues to be just a sharrow. (Both maps)
