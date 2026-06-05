@@ -9,28 +9,26 @@ And the MEGAMAP [(direct link)](https://github.com/solarbirdy/NorthshoreBikeMap/
 
 Combining Greater Northshore, City of Seattle, 2 Line Eastside, and Newcastle to White Center into a poster-sized high-detail MEGAMAP. 
 
-You may submit new route data via issues here on Github, or leave them in comments on my blog:
+You may submit new route data via issues here on Github, or [leave them in the "contact me" post on my blog](https://solarbird.net/blog/2024/06/17/contact-bikemap/).
 
-https://solarbird.net/blog/2024/06/17/contact-bikemap/
-
-**Latest Release 2.1.1 - May 15, 2026**
-
-* ADDED: Newly-opened protected bike lane along Broad Street in front of the Space Needle all the way to the 4th Ave downtown bike corridor. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) for confirmational photos! (MEGAMAP only)
-* ADDED: A missing short bike lane on Broad Street from Elliot Ave to Elliot Bay Trail (northwest side only) has been added ot the map. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) for the tip! (MEGAMAP only)
-* ADDED: T-033 Phase II in Newcastle, which completes the eastbound bike lane on May Creek Park Drive east from the roundabout. Westbound got a sharrow, but no lane. (MEGAMAP only)
-* CHANGED: The CKC closure-with-difficult-detours is extended at least through the end of May, and may (may!) go into June. Warning flag modified to note this. (Both maps)
-
-Coming in next release:
+**Latest Release 2.1.2 - June 5, 2026**
 
 * REOPENED: Cross-Kirkland Connector at 85th NE is OPEN WITHOUT DETOUR. Work continues but the route is clear! (Both maps)
 * ADDED: Fremont Ave gained a protected bike lane on the east side/northbound direction between N 34th and N 36th. The 34th to 35th block isn't completely done but **is** open so I'm putting it on the map right away. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) again for the contribution! (MEGAMAP only)
 * ADDED: The previously-unmarked bike lanes on 100th Ave NE between Waynita Way and Kirkland now link to something and are have received at least one official marking, so are now officially on the map. (Both maps)
-* EXTENDED: The new 100th Ave NE off-road protected bike lanes on 100th Ave NE in Kirkland now extend to NE 138th Street, so have received upgraded markings and been extended on the map. (Both maps)
+* EXTENDED: The new 100th Ave NE off-road protected bike lanes on 100th Ave NE in Kirkland now extend to NE 138th Street, so have received upgraded markings and been extended on the map. Combined with the previous, this is a big deal for Wayne (in Bothell) and Juanita. (Both maps)
 * ADDED: Short extension of bike lane on eastbound 200th St. SW in Lynnwood, connecting the lane to 48th Ave W. The westbound direction continues to be just a sharrow. (Both maps)
 * ADDED: This paint that looked like a bike lane but had no markings in Lake Forest Park now has a confirmed sign saying it's for bikes AND pedestrians both, so now it goes on the map with a special note. (Both maps)
 * UPGRADE: The east side of 15th Ave NE in Shoreline south of Hamlin Park has an off-street bike path now, rather than just a bike lane. Map updated to reflect this in the affected area. (Both maps)
 
 Previous releases:
+
+Changes with 2.1.1 (May 15, 2026):
+
+* ADDED: Newly-opened protected bike lane along Broad Street in front of the Space Needle all the way to the 4th Ave downtown bike corridor. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) for confirmational photos! (MEGAMAP only)
+* ADDED: A missing short bike lane on Broad Street from Elliot Ave to Elliot Bay Trail (northwest side only) has been added ot the map. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) for the tip! (MEGAMAP only)
+* ADDED: T-033 Phase II in Newcastle, which completes the eastbound bike lane on May Creek Park Drive east from the roundabout. Westbound got a sharrow, but no lane. (MEGAMAP only)
+* CHANGED: The CKC closure-with-difficult-detours is extended at least through the end of May, and may (may!) go into June. Warning flag modified to note this. (Both maps)
 
 Changes with 2.1.0 (April 17, 2026):
 
