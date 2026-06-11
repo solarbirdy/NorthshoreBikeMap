@@ -21,6 +21,11 @@ You may submit new route data via issues here on Github, or [leave them in the "
 * ADDED: This paint that looked like a bike lane but had no markings in Lake Forest Park now has a confirmed sign saying it's for bikes AND pedestrians both, so now it goes on the map with a special note. (Both maps)
 * UPGRADE: The east side of 15th Ave NE in Shoreline south of Hamlin Park has an off-street bike path now, rather than just a bike lane. Map updated to reflect this in the affected area. (Both maps)
 
+Coming in next release:
+
+* ADDED: 61st Ave NE bike lane extension to the Snohommish County border, more than doubling the length of bike lanes on the street. Briar, you're up!
+* PROVISIONALLY MARKED: The Georgetown walk/ped dog park's bike/ped corridor connecting Ellis Ave S. to E. Marginal Way S has been completed but is not yet open. The opening date is officially the 27th, but I have put it on the map with a note about the opening date. Typically these kind of infrastructures have a soft open before the official date, but that's very much in the air at any given time.
+
 Previous releases:
 
 Changes with 2.1.1 (May 15, 2026):
