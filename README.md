@@ -11,7 +11,15 @@ Combining Greater Northshore, City of Seattle, 2 Line Eastside, and Newcastle to
 
 You may submit new route data via issues here on Github, or [leave them in the "contact me" post on my blog](https://solarbird.net/blog/2024/06/17/contact-bikemap/).
 
-**Latest Release 2.1.2 - June 5, 2026**
+**Latest Release 2.1.3 - June 12, 2026**
+
+* ADDED: 61st Ave NE bike lane extension to the Snohommish County border, more than doubling the length of bike lanes on the street. There's still a little detail work in progress, but the bike lanes are fully open. Briar, your turn! (Both maps)
+* ADDED: 5th Ave NE bike lanes in Shoreline extended south to Shoreline South light rail station, filling in a critical gap between the station and the Shoreline bike lane grid. (Both maps)
+* PROVISIONALLY MARKED: The Georgetown walk/ped dog park's bike/ped corridor connecting Ellis Ave S. to E. Marginal Way S has been completed but is not yet open. The opening date is officially the 27th, but I have put it on the map with a note about the opening date. Typically these kind of infrastructures have a soft open before the official date, but that's very much in the air at any given time. (MEGAMAP only)
+
+Previous releases:
+
+Changes with 2.1.2 (June 5, 2026):
 
 * REOPENED: Cross-Kirkland Connector at 85th NE is OPEN WITHOUT DETOUR. Work continues but the route is clear! (Both maps)
 * ADDED: Fremont Ave gained a protected bike lane on the east side/northbound direction between N 34th and N 36th. The 34th to 35th block isn't completely done but **is** open so I'm putting it on the map right away. Thanks to [Shawn Wilsher/@sdwilsh@social.ridetrans.it](https://social.ridetrans.it/@sdwilsh) again for the contribution! (MEGAMAP only)
@@ -20,13 +28,6 @@ You may submit new route data via issues here on Github, or [leave them in the "
 * ADDED: Short extension of bike lane on eastbound 200th St. SW in Lynnwood, connecting the lane to 48th Ave W. The westbound direction continues to be just a sharrow. (Both maps)
 * ADDED: This paint that looked like a bike lane but had no markings in Lake Forest Park now has a confirmed sign saying it's for bikes AND pedestrians both, so now it goes on the map with a special note. (Both maps)
 * UPGRADE: The east side of 15th Ave NE in Shoreline south of Hamlin Park has an off-street bike path now, rather than just a bike lane. Map updated to reflect this in the affected area. (Both maps)
-
-Coming in next release:
-
-* ADDED: 61st Ave NE bike lane extension to the Snohommish County border, more than doubling the length of bike lanes on the street. Briar, you're up!
-* PROVISIONALLY MARKED: The Georgetown walk/ped dog park's bike/ped corridor connecting Ellis Ave S. to E. Marginal Way S has been completed but is not yet open. The opening date is officially the 27th, but I have put it on the map with a note about the opening date. Typically these kind of infrastructures have a soft open before the official date, but that's very much in the air at any given time.
-
-Previous releases:
 
 Changes with 2.1.1 (May 15, 2026):
 
