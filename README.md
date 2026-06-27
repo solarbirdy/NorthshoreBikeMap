@@ -19,8 +19,8 @@ You may submit new route data via issues here on Github, or [leave them in the "
 
 Coming in next release:
 
-* EXTENDED: 228th Ave SW bike lanes in Esperance extended west to 84th Ave W. (Both maps)
-* ADDED: 84th Ave W sharerow markings between 220th SW and 228th SW in Experance. The combination of this and the above add improve connections to Mountlake Terrace Light Rail Station. (Both maps)
+* EXTENDED: 228th Ave SW bike lanes in Esperance extended west to 80th Ave W. (Both maps)
+* ADDED: 80th Ave W sharerow markings between 220th SW and 228th SW in Experance. The combination of this and the above add improve connections to Mountlake Terrace Light Rail Station. (Both maps)
 * ADDED: The Bike/Ped multi-use path (plus bridge-only buffered bike lanes) on 145th from Shoreline South light rail station west to Corliss Ave in Shoreline is now officially open. (Both maps)
 * CORRECTED: 5th Ave NE bike lanes in Shoreline on the east side extend two-thirds of a block further than previously indicated. This has been adjusted. (Both maps)
 * WARNING ADDED: Construction is underway on upgrading bike lanes and sidewalks on 80th Ave NE in Kenmore, so a construction warning has been added.
