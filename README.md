@@ -17,6 +17,14 @@ You may submit new route data via issues here on Github, or [leave them in the "
 * ADDED: 5th Ave NE bike lanes in Shoreline extended south to Shoreline South light rail station, filling in a critical gap between the station and the Shoreline bike lane grid. (Both maps)
 * PROVISIONALLY MARKED: The Georgetown walk/ped dog park's bike/ped corridor connecting Ellis Ave S. to E. Marginal Way S has been completed but is not yet open. The opening date is officially the 27th, but I have put it on the map with a note about the opening date. Typically these kind of infrastructures have a soft open before the official date, but that's very much in the air at any given time. (MEGAMAP only)
 
+Coming in next release:
+
+* EXTENDED: 228th Ave SW bike lanes in Esperance extended west to 84th Ave W. (Both maps)
+* ADDED: 84th Ave W sharerow markings between 220th SW and 228th SW in Experance. The combination of this and the above add improve connections to Mountlake Terrace Light Rail Station. (Both maps)
+* ADDED: The Bike/Ped multi-use path (plus bridge-only buffered bike lanes) on 145th from Shoreline South light rail station west to Corliss Ave in Shoreline is now officially open. (Both maps)
+* CORRECTED: 5th Ave NE bike lanes in Shoreline on the east side extend two-thirds of a block further than previously indicated. This has been adjusted. (Both maps)
+* WARNING ADDED: Construction is underway on upgrading bike lanes and sidewalks on 80th Ave NE in Kenmore, so a construction warning has been added.
+
 Previous releases:
 
 Changes with 2.1.2 (June 5, 2026):
