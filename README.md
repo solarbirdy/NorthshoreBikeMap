@@ -24,6 +24,7 @@ Coming in next release:
 * ADDED: The Bike/Ped multi-use path (plus bridge-only buffered bike lanes) on 145th from Shoreline South light rail station west to Corliss Ave in Shoreline is now officially open. (Both maps)
 * CORRECTED: 5th Ave NE bike lanes in Shoreline on the east side extend two-thirds of a block further than previously indicated. This has been adjusted. (Both maps)
 * WARNING ADDED: Construction is underway on upgrading bike lanes and sidewalks on 80th Ave NE in Kenmore, so a construction warning has been added.
+* CORRECTION: When adding the bike lane extension on 124th Ave NE north of 116th in Kirkland, I just extended the existing lines up rather than marking them as barrier-separated lanes, which they are. (They're up on the sidewalk level.) Thanks to to @amberhu-uw for the heads-up!
 
 Previous releases:
 
