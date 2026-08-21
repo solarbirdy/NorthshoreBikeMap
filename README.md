@@ -11,7 +11,14 @@ Combining Greater Northshore, City of Seattle, 2 Line Eastside, and Newcastle to
 
 You may submit new route data via issues here on Github, or [leave them in the "contact me" post on my blog](https://solarbird.net/blog/2024/06/17/contact-bikemap/).
 
-**Latest Release 2.1.4 - July 3, 2026**
+**Latest Release 2.1.5 - August 21, 2026**
+
+* EXTENDED: One-block extension west of bake lane protection on Yesler from the old stopping point of 12th Ave west to Boren, hopefully helping with a particularly problematic intersection. (MEGAMAP only)
+* TEMPORARILY CLOSED: 80th Ave NE closed to all but local traffic from Bothell Way north to NE 185th St., including the bike lanes, from August 24th through September 24th. (Both maps)
+
+Previous releases:
+
+Changes with 2.1.4 (July 3, 2026):
 
 * EXTENDED: 228th Ave SW bike lanes in Esperance extended west to 80th Ave W. (Both maps)
 * ADDED: 80th Ave W sharerow markings between 220th SW and 228th SW in Experance. The combination of this and the above add improve connections to Mountlake Terrace Light Rail Station. (Both maps)
@@ -20,13 +27,7 @@ You may submit new route data via issues here on Github, or [leave them in the "
 * CORRECTED: When adding the bike lane extension on 124th Ave NE north of 116th in Kirkland, I just extended the existing lines up rather than marking them as barrier-separated lanes, which they are. (They're up on the sidewalk level.) Thanks to to [@amberhu-uw](https://github.com/amberhu-uw) for the heads-up! (Both maps)
 * WARNING ADDED: Construction is underway on upgrading bike lanes and sidewalks on 80th Ave NE in Kenmore, so a construction warning has been added. (Both maps)
 
-Coming in next release:
-
-* One-block extension west of bake lane protection on Yesler from the old stopping point of 12th Ave west to Boren, hopefully helping with a particularly problematic intersection. (MEGAMAP only)
-
-Previous releases:
-
-Changes with 2.1.3 (June 12, 2016):
+Changes with 2.1.3 (June 12, 2026):
 
 * ADDED: 61st Ave NE bike lane extension to the Snohommish County border, more than doubling the length of bike lanes on the street. There's still a little detail work in progress, but the bike lanes are fully open. Briar, your turn! (Both maps)
 * ADDED: 5th Ave NE bike lanes in Shoreline extended south to Shoreline South light rail station, filling in a critical gap between the station and the Shoreline bike lane grid. (Both maps)
