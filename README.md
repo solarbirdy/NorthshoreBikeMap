@@ -16,6 +16,10 @@ You may submit new route data via issues here on Github, or [leave them in the "
 * EXTENDED: One-block extension west of bake lane protection on Yesler from the old stopping point of 12th Ave west to Boren, hopefully helping with a particularly problematic intersection. (MEGAMAP only)
 * TEMPORARILY CLOSED: 80th Ave NE closed to all but local traffic from Bothell Way north to NE 185th St., including the bike lanes, from August 24th through September 24th. (Both maps)
 
+Coming in next release:
+
+* ADDED: Buffered bike lanes on Bel-Red Road in Redmond from W. Lake Sammamish Parkway through NE 30th St.
+
 Previous releases:
 
 Changes with 2.1.4 (July 3, 2026):
