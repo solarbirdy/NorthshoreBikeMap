@@ -19,6 +19,7 @@ You may submit new route data via issues here on Github, or [leave them in the "
 Coming in next release:
 
 * ADDED: Buffered bike lanes on Bel-Red Road in Redmond from W. Lake Sammamish Parkway through NE 30th St.
+* EXTENDED: The construction blockage on 80th Ave NE - the entire street is closed to through traffic between Bothell Way and 185th - has been extended from end of October through **December**. The warning flag has been edited to reflect the new timeline.
 
 Previous releases:
 
