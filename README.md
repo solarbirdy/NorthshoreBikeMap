@@ -11,17 +11,17 @@ Combining Greater Northshore, City of Seattle, 2 Line Eastside, and Newcastle to
 
 You may submit new route data via issues here on Github, or [leave them in the "contact me" post on my blog](https://solarbird.net/blog/2024/06/17/contact-bikemap/).
 
-**Latest Release 2.1.5 - August 21, 2026**
-
-* EXTENDED: One-block extension west of bake lane protection on Yesler from the old stopping point of 12th Ave west to Boren, hopefully helping with a particularly problematic intersection. (MEGAMAP only)
-* TEMPORARILY CLOSED: 80th Ave NE closed to all but local traffic from Bothell Way north to NE 185th St., including the bike lanes, from August 24th through September 24th. (Both maps)
-
-Coming in next release:
+**Latest Release 2.1.6 - October 10, 2026**
 
 * ADDED: Buffered bike lanes on Bel-Red Road in Redmond from W. Lake Sammamish Parkway through NE 30th St.
 * EXTENDED: The construction blockage on 80th Ave NE - the entire street is closed to through traffic between Bothell Way and 185th - has been extended from end of October through **December**. The warning flag has been edited to reflect the new timeline.
 
 Previous releases:
+
+Changes with 2.1.5 (August 21, 2026):
+
+* EXTENDED: One-block extension west of bake lane protection on Yesler from the old stopping point of 12th Ave west to Boren, hopefully helping with a particularly problematic intersection. (MEGAMAP only)
+* TEMPORARILY CLOSED: 80th Ave NE closed to all but local traffic from Bothell Way north to NE 185th St., including the bike lanes, from August 24th through September 24th. (Both maps)
 
 Changes with 2.1.4 (July 3, 2026):
 
