@@ -11,6 +11,10 @@ Combining Greater Northshore, City of Seattle, 2 Line Eastside, and Newcastle to
 
 You may submit new route data via issues here on Github, or [leave them in the "contact me" post on my blog](https://solarbird.net/blog/2024/06/17/contact-bikemap/).
 
+** FLASH UPDATE - 12 OCTOBER 2026 **
+
+On October 13th for at least two hours (and possibly multiple _days_, Sammamish River Trail will be 100% CLOSED WITHOUT POSTED DETOUR between 145th and 143rd. I have posted [a map showing the least-car-interaction detour](https://mastodon.murkworks.net/@moira/117429701004569880) on my Mastodon account; you do NOT need an account to view it.
+
 **Latest Release 2.1.6 - October 10, 2026**
 
 * ADDED: Buffered bike lanes on Bel-Red Road in Redmond from W. Lake Sammamish Parkway through NE 30th St.
