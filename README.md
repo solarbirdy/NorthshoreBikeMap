@@ -20,6 +20,10 @@ On October 13th for at least two hours (and possibly multiple _days_), Sammamish
 * ADDED: Buffered bike lanes on Bel-Red Road in Redmond from W. Lake Sammamish Parkway through NE 30th St.
 * EXTENDED: The construction blockage on 80th Ave NE - the entire street is closed to through traffic between Bothell Way and 185th - has been extended from end of October through **December**. The warning flag has been edited to reflect the new timeline.
 
+Coming in next release:
+
+* UPGRADED: Bike lands between Seward Park and Chief Sealth Trail are now separated and protected by barriers; markings upgraded to reflect that (MEGAMAP only)
+
 Previous releases:
 
 Changes with 2.1.5 (August 21, 2026):
