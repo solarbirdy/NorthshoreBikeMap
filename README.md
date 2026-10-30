@@ -11,10 +11,6 @@ Combining Greater Northshore, City of Seattle, 2 Line Eastside, and Newcastle to
 
 You may submit new route data via issues here on Github, or [leave them in the "contact me" post on my blog](https://solarbird.net/blog/2024/06/17/contact-bikemap/).
 
-** **FLASH UPDATE - 12 OCTOBER 2026** **
-
-On October 13th for at least two hours (and possibly multiple _days_), Sammamish River Trail will be 100% CLOSED WITHOUT POSTED DETOUR between 145th and 143rd. I have posted [a map showing the least-car-interaction detour](https://mastodon.murkworks.net/@moira/117429701004569880) on my Mastodon account; you do NOT need an account to view it.
-
 **Latest Release 2.1.6 - October 10, 2026**
 
 * ADDED: Buffered bike lanes on Bel-Red Road in Redmond from W. Lake Sammamish Parkway through NE 30th St.
@@ -23,6 +19,7 @@ On October 13th for at least two hours (and possibly multiple _days_), Sammamish
 Coming in next release:
 
 * UPGRADED: Bike lands between Seward Park and Chief Sealth Trail are now separated and protected by barriers; markings upgraded to reflect that (MEGAMAP only)
+* NEW: As almost an accident of construction, the first micro-segment of Eastrail Trail in the downtown segment around Woodinville already exists, connecting 132nd and 133rd along Woodinville-Snohomish Road. It's fully signed and everything. There are other sections also completed, but still are fenced off, pending landscaping and connections to unbuilt infrastructure; there are even more sections that are just large gravel right now but are open, whether officially or not, particularly to the west where you can go all the way to Sammamish River Trail. It's even signed. But it involves an unimproved railroad trestle which is insufficiently railed, so I am not including that part.
 
 Previous releases:
 
